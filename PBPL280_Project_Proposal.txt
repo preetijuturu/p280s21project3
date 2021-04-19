@@ -1,0 +1,63 @@
+Spring 2021
+
+Title:Exposure to respiratory hazards and elementary school performance: A comparison between two Inland Empire cities
+
+Group Members: Ariana, Esteban, Preeti, Laura, Salvador, Wajiha
+Instructor: Sergio Rey
+Course: Special Topics in Public Policy (PBPL 280)
+University of California, Riverside
+
+1.Background
+
+
+2.Literature Review
+
+Relevant review of the literature based on the topic including atleast 10 articles (see references for the complete list of articles)
+
+
+3.Data and Methodology
+
+3.1 Data Set 
+
+Combine data from the EPA and the NCES from CGS’s quilt bucket, along with SEDA to create a school-level analysis.
+
+
+4.Project Goals, Logistics and Milestones
+
+4.1 Project Milestones
+
+Github Repository: https://github.com/preetijuturu/PBPL280-Education-and-EJ
+
+
+4.2 Project Timeline
+
+This project will be completed in its entirety by June 4, 2021. Project Milestone #1 will be completed by April 28, 2021 and Project Milestone #2 will be completed by May 19, 2021. 
+
+Project Milestone #1 
+Paper Outline/ Literature Review & Basic Visualization |  April 28, 2021 (04/28/21)
+
+Project Milestone #2
+Complete Data Analysis and Visualization | May 19, 2021 (05/19/21)
+
+Final Report 
+Manuscript & Documentation | June 4, 2021 (06/4/21)
+
+
+
+5. References
+
+- Clark-Reyna, S. E., Grineski, S. E., & Collins, T. W. (2016). Residential exposure to air toxics is linked to lower grade point averages among school children in El Paso, Texas, USA. Population and environment, 37(3), 319-340.
+
+-Grineski, S. E., Clark-Reyna, S. E., & Collins, T. W. (2016). School-based exposure to hazardous air pollutants and grade point average: A multi-level study. Environmental research, 147, 164-171.
+
+- Liu, J., & Lewis, G. (2014). Environmental toxicity and poor cognitive outcomes in children and adults. Journal of environmental health, 76(6), 130.
+
+-Mohai, P., Kweon, B. S., Lee, S., & Ard, K. (2011). Air pollution around schools is linked to poorer student health and academic performance. Health Affairs, 30(5), 852-862.
+
+-Pastor Jr, M., Morello‐Frosch, R., & Sadd, J. L. (2006). Breathless: schools, air toxics, and environmental justice in California. Policy Studies Journal, 34(3), 337-362.
+
+-Pastor Jr, M., Sadd, J. L., & Morello-Frosch, R. (2004). Reading, writing, and toxics: children's health, academic performance, and environmental justice in Los Angeles. Environment and Planning C: Government and Policy, 22(2), 271-290.
+
+- Rosofsky, A., Lucier, C. A., London, B., Scharber, H., Borges-Mendez, R., & Shandra, J. (2014). Environmental ascription in Worcester County, MA: toxic pollution and education outcomes. Local environment, 19(3), 283-299.
+
+- Scharber, H., Lucier, C., London, B., Rosofsky, A., & Shandra, J. (2013). The consequences of exposure to developmental, neurological, and respiratory toxins for school performance: a closer look at environmental ascription in East Baton Rouge, Louisiana. Population and Environment, 35(2), 205-224.
