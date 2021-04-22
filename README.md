@@ -12,8 +12,14 @@
   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/)
   - [SEDA](https://edopportunity.org/)
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
-  
- Brainstroming Session/ Class Discussion (04/21)
+
+### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
+
+**Things To Consider**
+- Things we will focus on here
+- Things for future research
+
+Brainstroming Session/ Class Discussion (04/21)
  -------
  1. What environmental factors significantly impact educational attainment?
     - Ex. aerosol particulate matter/respiratory hazards
@@ -32,6 +38,4 @@
 14. How do warehouses impact the environmental toxins in the air near schools? What are the afffects in children? 
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
 
-#### Things we will focus on here
 
-#### Things for future research
