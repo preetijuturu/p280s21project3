@@ -38,4 +38,11 @@ Brainstroming Session/ Class Discussion (04/21)
 14. How do warehouses impact the environmental toxins in the air near schools? What are the afffects in children? 
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
 
+4/23/2021 Meeting: 
+- Esteban: For Causality 
+- Laura: Cons for Causality, maybe looking at associations would be easier. 
+- Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
 
+Potential Forms of Measurements/datasets 
+- Air Pollution 
+- Mercury (probably not) 
