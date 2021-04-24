@@ -13,8 +13,7 @@
   - [SEDA](https://edopportunity.org/)
       - grades 3-8 2
         1. Learning outcomes 
-        2. Test Scores 
-        3.    
+        2. Test Scores  
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
 
 ### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
