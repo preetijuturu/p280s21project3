@@ -45,10 +45,12 @@ Brainstroming Session/ Class Discussion (04/21)
 - Esteban: For Causality 
 - Laura: Cons for Causality, maybe looking at associations would be easier. 
 - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
-- Demographics, Ethniticy, Gender Income is provided in SEDA
+- **Demographics, Ethniticy, Gender Income Variables were provided in SEDA**
 Potential Forms of Measurements/datasets 
 - Air Pollution 
+- Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
 
 Questions: 
-1. How do we pull student test performance from SED Website? 
-3. 
+1. How do we pull student test performance from SEDA Website? 
+Pending Decisions on which type of school (public, private, charter school) 
+2. How do we define school districts? 
