@@ -11,6 +11,10 @@
 **Data Sources**
   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/)
   - [SEDA](https://edopportunity.org/)
+      - grades 3-8 2
+        1. Learning outcomes 
+        2. Test Scores 
+        3.    
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
 
 ### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
@@ -42,7 +46,10 @@ Brainstroming Session/ Class Discussion (04/21)
 - Esteban: For Causality 
 - Laura: Cons for Causality, maybe looking at associations would be easier. 
 - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
-
+- Demographics, Ethniticy, Gender Income is provided in SEDA
 Potential Forms of Measurements/datasets 
 - Air Pollution 
-- Mercury (probably not) 
+
+Questions: 
+1. How do we pull student test performance from SED Website? 
+3. 
