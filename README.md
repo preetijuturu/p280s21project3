@@ -18,8 +18,8 @@
         2. Test Scores  
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
 
-### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-
+1. ### [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
+2. ### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
 **Things To Consider**
 - Things we will focus on here
 - Things for future research
