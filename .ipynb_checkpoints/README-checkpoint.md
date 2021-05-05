@@ -56,8 +56,3 @@ Questions:
 1. How do we pull student test performance from SEDA Website? 
 Pending Decisions on which type of school (public, private, charter school) 
 2. How do we define school districts? 
-
-Distribution of Perference Roles: 
-
-School Districts 
-EJ 
