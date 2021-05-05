@@ -61,3 +61,17 @@ Questions:
 1. How do we pull student test performance from SEDA Website? 
 Pending Decisions on which type of school (public, private, charter school) 
 2. How do we define school districts? 
+
+## How to Open Geoprocessing Crash Course File in JupyterLab
+
+Fork the Repo [PBPL280s21](https://github.com/sjsrey/pbpl280s21)
+
+Clone it in your JupyterLab using terminal. 
+
+The main folder pbpl280s21 will appear on the side navigation bar. You can locate the geoprocessing demofile inside docsrc and go from there.
+
+This will save alot of time instead copy pasting the code from the repo. Make sure to save any changes you make to the code.
+
+
+-------------------
+
