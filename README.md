@@ -56,12 +56,12 @@ Brainstroming Session/ Class Discussion (04/21)
 Potential Forms of Measurements/datasets 
 - Air Pollution 
 - Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
-
+--- 
 Questions: 
 1. How do we pull student test performance from SEDA Website? 
 Pending Decisions on which type of school (public, private, charter school) 
 2. How do we define school districts? 
-
+--- 
 ## How to Open Geoprocessing Crash Course File in JupyterLab
 
 Fork the Repo [PBPL280s21](https://github.com/sjsrey/pbpl280s21)
