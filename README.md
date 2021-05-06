@@ -28,8 +28,8 @@
 
 ---
 Questions: 
-1. How do we pull student test performance from SEDA Website? 
-Pending Decisions on which type of school (public, private, charter school) 
+1. How do we pull student test performance from SEDA Website? (it shows an interactive map) 
+      - Pending Decisions on which type of school (public, private, charter school) 
 2. How do we define school districts? 
 3. One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough?  
 ---
