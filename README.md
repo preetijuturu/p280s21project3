@@ -1,17 +1,25 @@
 # PBPL280 Project
 
-[Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit)  
+Questions: 
+1. How do we pull student test performance from SEDA Website? 
+Pending Decisions on which type of school (public, private, charter school) 
+2. How do we define school districts? 
 
-[![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Links: 
+- Communication: 
+1. [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+Data: 
+1. [Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
 
 ## Topic: Education and Environmental Justice
-  - [Project Proposal](https://docs.google.com/document/d/1liO0_mFnsBNYzU4s77I3vHyhYLAo16-alroRo3w_-7A/edit?usp=sharing)
+2.  [Project Proposal](https://docs.google.com/document/d/1liO0_mFnsBNYzU4s77I3vHyhYLAo16-alroRo3w_-7A/edit?usp=sharing)
   Draft of prososal in google docs.
-  - [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
+3.  [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
   All relevant files for the project shared with the group members.
-  - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
+4.  [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
  Guidelines from the course instructor.
- 
+--- 
 **Data Sources**
   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/)
   - [SEDA](https://edopportunity.org/)
@@ -54,13 +62,3 @@ Potential Forms of Measurements/datasets
 - Air Pollution 
 - Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
 
-Questions: 
-1. How do we pull student test performance from SEDA Website? 
-Pending Decisions on which type of school (public, private, charter school) 
-2. How do we define school districts? 
-
-Distribution of Perference Roles: 
-
-School Districts Data 
-
-EJ Dataset 
