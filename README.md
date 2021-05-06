@@ -59,5 +59,6 @@ Pending Decisions on which type of school (public, private, charter school)
 
 Distribution of Perference Roles: 
 
-School Districts 
-EJ 
+School Districts Data 
+
+EJ Dataset 
