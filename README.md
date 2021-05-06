@@ -1,5 +1,5 @@
 # PBPL280 Project
-top of the world 
+ 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Topic: Education and Environmental Justice
