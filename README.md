@@ -27,13 +27,22 @@ Data:
         1. Learning outcomes 
         2. Test Scores  
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+  
+ **Census Bureau's TIGER database**
+  - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
+  - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
+  - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
 
-### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
+1. ### [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
+2. ### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
 
-**Things To Consider**
-- Things we will focus on here
-- Things for future research
-
+---
+Questions: 
+1. How do we pull student test performance from SEDA Website? (it shows an interactive map) 
+      - Pending Decisions on which type of school (public, private, charter school) 
+2. How do we define school districts? 
+3. One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough?  
+---
 Brainstroming Session/ Class Discussion (04/21)
  -------
  1. What environmental factors significantly impact educational attainment?
@@ -61,4 +70,17 @@ Brainstroming Session/ Class Discussion (04/21)
 Potential Forms of Measurements/datasets 
 - Air Pollution 
 - Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
+--- 
+## How to Open Geoprocessing Crash Course File in JupyterLab
+
+Fork the Repo [PBPL280s21](https://github.com/sjsrey/pbpl280s21)
+
+Clone it in your JupyterLab using terminal. 
+
+The main folder pbpl280s21 will appear on the side navigation bar. You can locate the geoprocessing demofile inside docsrc and go from there.
+
+This will save alot of time instead copy pasting the code from the repo. Make sure to save any changes you make to the code.
+
+
+-------------------
 
