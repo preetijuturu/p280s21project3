@@ -1,15 +1,17 @@
 # PBPL280 Project
+# Contributors: 
+1. [Laura Shah](https://github.com/lsala010/)
 
-Questions: 
+Questioned Asked: 
 1. How do we pull student test performance from SEDA Website? 
-Pending Decisions on which type of school (public, private, charter school) 
+    - Pending Decisions on which type of school (public, private, charter school) 
 2. How do we define school districts? 
 
-Links: 
+**Links:** 
 - Communication: 
 1. [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Data: 
+**Data:** 
 1. [Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
 
 ## Topic: Education and Environmental Justice
