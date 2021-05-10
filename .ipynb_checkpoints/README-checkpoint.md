@@ -1,5 +1,5 @@
 # PBPL280 Project
-
+ 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Topic: Education and Environmental Justice
@@ -56,3 +56,9 @@ Questions:
 1. How do we pull student test performance from SEDA Website? 
 Pending Decisions on which type of school (public, private, charter school) 
 2. How do we define school districts? 
+
+Distribution of Perference Roles: 
+
+School Districts Data 
+
+EJ Dataset 
