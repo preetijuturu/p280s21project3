@@ -2,8 +2,8 @@
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-List of Contributors:
-[Wajiha](https://github.com/WawNun)
+Contributors:
+1. [Wajiha](https://github.com/WawNun)
 
 ## Topic: Education and Environmental Justice
   - [Project Proposal](https://docs.google.com/document/d/1liO0_mFnsBNYzU4s77I3vHyhYLAo16-alroRo3w_-7A/edit?usp=sharing)
