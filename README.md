@@ -6,13 +6,36 @@
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-## :pushpin: Contributors: 
-1. [Laura Shah](https://github.com/lsala010/)
-2. [Esteban Villegas](https://github.com/evill092)
-3. [Wajiha Noor](https://github.com/WawNun)
+## :pushpin: Contributors
+[Laura Shah](https://github.com/lsala010/)
+
+[Esteban Villegas](https://github.com/evill092)
+
+[Wajiha Noor](https://github.com/WawNun)
+
 -------
 
-## 📝: Project Documentation
+## :hourglass: Project Timeline
+
+----
+
+`May 5, 2021` 
+
+- [x] **Project Proposal Submission**: Project Proposal on HackMD.
+
+`May 19, 2021 `
+
+- [ ] **Project Milestone 1**: Paper Outline/ Literature Review & Basic Visualization.
+
+`May 26, 2021 `
+- [ ] **Project Milestone 2**: Complete Data Analysis and Visualization.
+
+`June 4, 2021`
+- [ ] **Final Submission**: Manuscript and Project Reproducibility Documentation. 
+ 
+------
+
+## 📝 Project Documentation
 ------
 1. [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
  Guidelines from the course instructor.
