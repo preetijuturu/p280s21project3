@@ -116,8 +116,9 @@ tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 Due Date: `05/15/2021`
 - Each member to finish literature review summary of the 2 articles.
 - Data sets for analysis (2 person per dataset).
+- Close issue [#20](https://github.com/preetijuturu/p280s21project3/issues/20)
 
-  **Note: Details of each tasks are organized in the projects section of the repo.**
+**Note: Details of each tasks are organized in the projects section of the repo.**
 
 ---
 
