@@ -2,6 +2,7 @@
 # Contributors: 
 1. [Laura Shah](https://github.com/lsala010/)
 2. [Esteban Villegas](https://github.com/evill092)
+3. [Wajiha](https://github.com/WawNun)
 Questioned Asked: 
 1. How do we pull student test performance from SEDA Website? 
     - Pending Decisions on which type of school (public, private, charter school) 
@@ -14,8 +15,6 @@ Questioned Asked:
 **Data:** 
 1. [Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
 
-Contributors:
-1. [Wajiha](https://github.com/WawNun)
 
 ## Topic: Education and Environmental Justice
 2.  [Project Proposal](https://docs.google.com/document/d/1liO0_mFnsBNYzU4s77I3vHyhYLAo16-alroRo3w_-7A/edit?usp=sharing)
