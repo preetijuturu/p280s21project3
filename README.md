@@ -15,6 +15,8 @@
 
 [Wajiha Noor](https://github.com/WawNun)
 
+[Preeti Juturu](https://github.com/preetijuturu)
+
 -------
 
 ## :hourglass: Project Timeline
