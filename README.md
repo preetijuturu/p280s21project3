@@ -44,7 +44,7 @@ A complete list of the main data sources that will be useful for the study.
 
 
 -----
- :speech_balloon:  **Questioned Asked:** 
+ ## :speech_balloon: Questions
 1. How do we pull student test performance from SEDA Website? 
     - Pending Decisions on which type of school (public, private, charter school)
     - Time period for analysis 
@@ -55,7 +55,8 @@ A complete list of the main data sources that will be useful for the study.
 
 ## :date: Group Meeting Log
 ----
- - [x]  **Inclass Group Meeting** `04/21/2021`
+`04/21/2021`
+ - [x]  **Inclass Group Meeting** 
 
 *Agenda: Brainstroming Session/ Class Discussion*
 
@@ -75,12 +76,14 @@ A complete list of the main data sources that will be useful for the study.
 13. How could land-use policy affect environmental racism for school-age children?
 14. How do warehouses impact the environmental toxins in the air near schools? What are the afffects in children? 
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
+-----
 
- - [x]   **Group Meeting** `4/23/2021` 
+`4/23/2021` 
+ - [x]   **Group Meeting** 
 
 *Agenda: Discussion and review of data and literature for the study.*
 
-- Potential Forms of Measurements
+ Potential Forms of Measurements
    -  Air Pollution ( what should be the ideal measure from EJscreen?)
    -  Demographics, Ethniticy, Gender Income Variables were provided in SEDA.
    
@@ -89,10 +92,12 @@ A complete list of the main data sources that will be useful for the study.
    - Laura: Cons for Causality, maybe looking at associations would be easier.  
    - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
     
-Future Deliverables
-  Project Proposal will be finalized in HackMD link and then transferred to GitHUb.
+  Future Deliverables:
+   -  Project Proposal will be finalized in HackMD link and then transferred to GitHUb.
+------
 
-- [x]  **Group Meeting** `5/06/2021`
+`5/06/2021`
+- [x]  **Group Meeting** 
 
  *Agenda: Finalized the project proposal in HackMD file.*
 
