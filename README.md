@@ -61,16 +61,19 @@ Review of the past literature -A total of 12 papers will reviewed for the study.
 ##  :clipboard: Data Sources
 ----
 A complete list of the main data sources and code to retrieve data for the study.
-  - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
-  National Center for Education Statistics
+ 
+ - National Center for Education Statistics 
+ 
+ [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
 
 ```
 schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
 
 ```
-  - [SEDA](https://edopportunity.org/) 
-  - 
+  - The Educational Opportunity Project at Stanford University 
 
+  [SEDA](https://edopportunity.org/) 
+  
 ```
 SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
 
