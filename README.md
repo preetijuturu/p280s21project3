@@ -1,6 +1,6 @@
 
 <img src="https://spatial.ucr.edu/images/UCR_logo_long.png" alt="UCR"
-	title="University of California" width="300" height="100"  /> 
+	title="University of California" width="300" height="50"  /> 
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -33,7 +33,7 @@
 - [ ] **Project Milestone 2**: Complete Data Analysis and Visualization.
 
 `June 4, 2021`
-- [ ] **Final Submission**: Manuscript and Project Reproducibility Documentation. 
+- [ ] **Final Submission**: Presentation, Manuscript and Project Reproducibility Documentation. 
  
 ------
 
@@ -72,11 +72,11 @@ A complete list of the main data sources that will be useful for the study.
 
 -----
  ## :speech_balloon: Questions
-1. How do we pull student test performance from SEDA Website? 
+- How do we pull student test performance from SEDA Website? 
     - Pending Decisions on which type of school (public, private, charter school)
     - Time period for analysis 
-2. How do we define school districts? 
-3. One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough? 
+- How do we define school districts? 
+- One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough? 
 ----
 
 
@@ -129,5 +129,11 @@ List of questions generated during the discussion session:
 
  *Agenda: Finalized the project proposal in HackMD file.*
  
- 
+ ----
+## :file_folder: Tasks
 
+`05/15/2021`
+- Each member to finish literature review summary of the 2 articles.
+- Data sets for analysis (2 person per dataset).
+
+**Note: Details of each tasks are organized in the projects section of the repo.**
