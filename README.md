@@ -60,8 +60,13 @@ Review of the past literature -A total of 12 papers will reviewed for the study.
  
 ##  :clipboard: Data Sources
 ----
-A complete list of the main data sources that will be useful for the study.
+A complete list of the main data sources and code to retrieve data for the study.
   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/)
+
+```
+schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
+
+```
   - [SEDA](https://edopportunity.org/) 
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
   - Census Bureau's TIGERLINE 
