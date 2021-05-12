@@ -74,6 +74,14 @@ SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_
 
 ```
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+
+```
+import quilt3
+b = quilt3.Bucket("s3://spatial-ucr")
+b.fetch("epa/ejscreen/ejscreen_2020.parquet", "./ejscreen_2020.parquet")
+ejscreen = pd.read_parquet('ejscreen_2020.parquet')
+```
+
   - Census Bureau's TIGERLINE 
      - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
      - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
