@@ -100,11 +100,15 @@ tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 
 -----
  ## :speech_balloon: Questions
-- How do we pull student test performance from SEDA Website? 
-    - Pending Decisions on which type of school (public, private, charter school)
-    - Time period for analysis 
+ 
+ Pending Decisions
+ - Which type of school (public, private, charter school)
+- Time period for analysis? (crossectional VS longitudinal)
+- ALL SCHOOLS (elementary, secondary and highschool) VS ONLY ELEMENTARY schools?
 - How do we define school districts? 
+- Selection of areas/locations for analysis, for instance Riverside VS Coastal areas?
 - One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough? 
+
 ----
 
 ## :dart: Tasks 
