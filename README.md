@@ -64,7 +64,7 @@ A complete list of the main data sources and code to retrieve data for the study
  
 1. National Center for Education Statistics 
  
- [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
+   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
 
 ```
 schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
@@ -72,7 +72,7 @@ schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
 ```
 2. The Educational Opportunity Project at Stanford University 
 
-  [SEDA](https://edopportunity.org/) 
+    - [SEDA](https://edopportunity.org/) 
   
 ```
 SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
@@ -80,7 +80,7 @@ SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_
 ```
 3. EPA- EJSCREEN
 
-[EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+    - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
 
 ```
 import quilt3
