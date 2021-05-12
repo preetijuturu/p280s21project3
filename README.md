@@ -5,7 +5,7 @@
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # PBPL 280 Project: Education and Environmental Justice
-## A comparative analysis of exposure to respiratory hazards and elementary school performance in Southern California. ##
+## A Comparative Analysis of Exposure to Respiratory Hazards and School Performance in Southern California. ##
 
 
 ## :pushpin: Contributors
