@@ -79,9 +79,44 @@ A complete list of the main data sources that will be useful for the study.
 - One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough? 
 ----
 
+## :dart: Tasks 
+
+Due Date: `05/15/2021`
+- Each member to finish literature review summary of the 2 articles.
+- Data sets for analysis (2 person per dataset).
+
+  **Note: Details of each tasks are organized in the projects section of the repo.**
+
+---
 
 ## :date: Group Meeting Log
 ----
+`5/06/2021`
+- [x]  **Group Meeting** 
+
+ *Agenda: Finalized the project proposal in HackMD file.*
+ 
+ ----
+ 
+`4/23/2021` 
+ - [x]   **Group Meeting** 
+
+*Agenda: Discussion and review of data and literature for the study.*
+
+ Potential Forms of Measurements
+   -  Air Pollution ( what should be the ideal measure from EJscreen?)
+   -  Demographics, Ethniticy, Gender Income Variables were provided in SEDA.
+   
+ Points Raised by Group Members:
+   - Esteban: For Causality 
+   - Laura: Cons for Causality, maybe looking at associations would be easier.  
+   - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
+    
+  Future Deliverables:
+   -  Project Proposal will be finalized in HackMD link and then transferred to GitHUb.
+   
+------
+
 `04/21/2021`
  - [x]  **Inclass Group Meeting** 
 
@@ -106,34 +141,4 @@ List of questions generated during the discussion session:
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
 -----
 
-`4/23/2021` 
- - [x]   **Group Meeting** 
 
-*Agenda: Discussion and review of data and literature for the study.*
-
- Potential Forms of Measurements
-   -  Air Pollution ( what should be the ideal measure from EJscreen?)
-   -  Demographics, Ethniticy, Gender Income Variables were provided in SEDA.
-   
- Points Raised by Group Members:
-   - Esteban: For Causality 
-   - Laura: Cons for Causality, maybe looking at associations would be easier.  
-   - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
-    
-  Future Deliverables:
-   -  Project Proposal will be finalized in HackMD link and then transferred to GitHUb.
-------
-
-`5/06/2021`
-- [x]  **Group Meeting** 
-
- *Agenda: Finalized the project proposal in HackMD file.*
- 
- ----
-## :file_folder: Tasks
-
-`05/15/2021`
-- Each member to finish literature review summary of the 2 articles.
-- Data sets for analysis (2 person per dataset).
-
-**Note: Details of each tasks are organized in the projects section of the repo.**
