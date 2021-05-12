@@ -55,7 +55,7 @@ A complete list of the main data sources that will be useful for the study.
 
 ## :date: Group Meetings Log
 ----
- - [ ]  **Brainstroming Session/ Class Discussion** `04/21/2021`
+ - [x]  **Brainstroming Session/ Class Discussion** `04/21/2021`
 
  1. What environmental factors significantly impact educational attainment?
     - Ex. aerosol particulate matter/respiratory hazards
@@ -74,15 +74,15 @@ A complete list of the main data sources that will be useful for the study.
 14. How do warehouses impact the environmental toxins in the air near schools? What are the afffects in children? 
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
 
- - [ ]   **Group Meeting** `4/23/2021` 
-- Esteban: For Causality 
-- Laura: Cons for Causality, maybe looking at associations would be easier. 
-- Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
-- **Demographics, Ethniticy, Gender Income Variables were provided in SEDA**
+ - [x]   **Group Meeting** `4/23/2021` 
+  - Esteban: For Causality 
+  - Laura: Cons for Causality, maybe looking at associations would be easier. 
+  - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
+**Demographics, Ethniticy, Gender Income Variables were provided in SEDA**
 Potential Forms of Measurements/datasets 
-- Air Pollution 
-- Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
+   1. Air Pollution 
+   2. Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
 
- - [ ]  **Group Meeting** `5/06/2021`
-- Finalized the project proposal in HackMD file.
+- [x]  **Group Meeting** `5/06/2021`
+  - Finalized the project proposal in HackMD file.
 
