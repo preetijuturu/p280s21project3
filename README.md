@@ -78,7 +78,7 @@ schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
 SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
 
 ```
-3. EPA- EJSCREEN
+3. United States Environmental Protection Agency(EPA) EJSCREEN
 
     - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
 
