@@ -39,22 +39,22 @@
 
 ## 📝 Project Documentation
 ------
-1. [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
+- [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
  Guidelines from the course instructor.
  
-2. [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
+- [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
 Google drive for all relevant files shared with the group members.
 
-3.  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
+-  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
 Project proposal for our final project.
   
-4. [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
+- [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
 Review of the past literature -A total of 12 papers will reviewed for the study.
 
-6. [HackMD for Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
+- [HackMD for Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
  Organizing the data, identifying potential variables, and sources. 
  
- 7. [Code in Python ](https://github.com/preetijuturu/p280s21project3/tree/main/Codebook)
+- [Code in Python ](https://github.com/preetijuturu/p280s21project3/tree/main/Codebook)
  Mutliple python notebooks for the data analysis.
  ------
  
