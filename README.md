@@ -1,41 +1,161 @@
-# PBPL280 Project
+
+<img src="https://spatial.ucr.edu/images/UCR_logo_long.png" alt="UCR"
+	title="University of California" width="300" height="50"  /> 
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-## Topic: Education and Environmental Justice
-  - [Project Proposal](https://docs.google.com/document/d/1liO0_mFnsBNYzU4s77I3vHyhYLAo16-alroRo3w_-7A/edit?usp=sharing)
-  Draft of prososal in google docs.
-  - [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
-  All relevant files for the project shared with the group members.
-  - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
+# PBPL 280 Project: Education and Environmental Justice
+## A Comparative Analysis of Exposure to Respiratory Hazards and School Performance in Southern California. ##
+
+
+## :pushpin: Contributors
+[Laura Shah](https://github.com/lsala010/)
+
+[Esteban Villegas](https://github.com/evill092)
+
+[Wajiha Noor](https://github.com/WawNun)
+
+-------
+
+## :hourglass: Project Timeline
+
+----
+
+`May 5, 2021` 
+
+- [x] **Project Proposal Submission**: Project Proposal on HackMD.
+
+`May 19, 2021 `
+
+- [ ] **Project Milestone 1**: Paper Outline/ Literature Review & Basic Visualization.
+
+`May 26, 2021 `
+- [ ] **Project Milestone 2**: Complete Data Analysis and Visualization.
+
+`June 4, 2021`
+- [ ] **Final Submission**: Presentation, Manuscript and Project Reproducibility Documentation. 
+ 
+------
+
+## 📝 Project Documentation
+------
+- [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
  Guidelines from the course instructor.
  
-**Data Sources**
-  - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/)
-  - [SEDA](https://edopportunity.org/)
-      - grades 3-8 2
-        1. Learning outcomes 
-        2. Test Scores  
-  - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+- [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
+Google drive for all relevant files shared with the group members.
+
+-  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
+Project proposal for our final project.
   
- **Census Bureau's TIGER database**
-  - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
-  - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
-  - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
+- [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
+Review of the past literature -A total of 12 papers will reviewed for the study.
 
-1. ### [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
-2. ### [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-3. [Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
+- [HackMD for Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
+ Organizing the data, identifying potential variables, and sources. 
+ 
+- [Code in Python ](https://github.com/preetijuturu/p280s21project3/tree/main/Codebook)
+ Mutliple python notebooks for the data analysis.
+ ------
+ 
+##  :clipboard: Data Sources
+----
+A complete list of the main data sources and code to retrieve data for the study.
+ 
+1. National Center for Education Statistics 
+ 
+   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
+
+```
+schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
+
+```
+2. The Educational Opportunity Project at Stanford University 
+
+    - [SEDA](https://edopportunity.org/) 
+  
+```
+SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
+
+```
+3. United States Environmental Protection Agency(EPA) EJSCREEN
+
+    - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+
+```
+import quilt3
+b = quilt3.Bucket("s3://spatial-ucr")
+b.fetch("epa/ejscreen/ejscreen_2020.parquet", "./ejscreen_2020.parquet")
+ejscreen = pd.read_parquet('ejscreen_2020.parquet')
+```
+
+ 4. Census Bureau's TIGERLINE 
+     - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
+     - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
+     - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
+
+```
+tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
+```
+
+-----
+ ## :speech_balloon: Questions
+ 
+ Pending Decisions
+ - Which type of school (public, private, charter school)
+- Time period for analysis? (crossectional VS longitudinal)
+- ALL SCHOOLS (elementary, secondary and highschool) VS ONLY ELEMENTARY schools?
+- How do we define school districts? 
+- Selection of areas/locations for analysis, for instance Riverside VS Coastal areas?
+- One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough? 
+
+----
+
+## :dart: Tasks 
+
+Due Date: `05/15/2021`
+- Each member to finish literature review summary of the 2 articles.
+- Data sets for analysis (2 person per dataset).
+- Close issue [#20](https://github.com/preetijuturu/p280s21project3/issues/20)
+
+**Note: Details of each tasks are organized in the projects section of the repo.**
 
 ---
-Questions: 
-1. How do we pull student test performance from SEDA Website? (it shows an interactive map) 
-      - Pending Decisions on which type of school (public, private, charter school) 
-2. How do we define school districts? 
-3. One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough?  
----
-Brainstroming Session/ Class Discussion (04/21)
- -------
+
+## :date: Group Meeting Log
+----
+`5/06/2021`
+- [x]  **Group Meeting** 
+
+ *Agenda: Finalized the project proposal in HackMD file.*
+ 
+ ----
+ 
+`4/23/2021` 
+ - [x]   **Group Meeting** 
+
+*Agenda: Discussion and review of data and literature for the study.*
+
+ Potential Forms of Measurements
+   -  Air Pollution ( what should be the ideal measure from EJscreen?)
+   -  Demographics, Ethniticy, Gender Income Variables were provided in SEDA.
+   
+ Points Raised by Group Members:
+   - Esteban: For Causality 
+   - Laura: Cons for Causality, maybe looking at associations would be easier.  
+   - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
+    
+  Future Deliverables:
+   -  Project Proposal will be finalized in HackMD link and then transferred to GitHUb.
+   
+------
+
+`04/21/2021`
+ - [x]  **Inclass Group Meeting** 
+
+*Agenda: Brainstroming Session/ Class Discussion*
+
+List of questions generated during the discussion session:
  1. What environmental factors significantly impact educational attainment?
     - Ex. aerosol particulate matter/respiratory hazards
 3. In what ways do environmental factors impact educational success?
@@ -52,26 +172,6 @@ Brainstroming Session/ Class Discussion (04/21)
 13. How could land-use policy affect environmental racism for school-age children?
 14. How do warehouses impact the environmental toxins in the air near schools? What are the afffects in children? 
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
+-----
 
-4/23/2021 Meeting: 
-- Esteban: For Causality 
-- Laura: Cons for Causality, maybe looking at associations would be easier. 
-- Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
-- **Demographics, Ethniticy, Gender Income Variables were provided in SEDA**
-Potential Forms of Measurements/datasets 
-- Air Pollution 
-- Project Proposal will be finalized in Hack md link and then transferred to GitHUb 
---- 
-## How to Open Geoprocessing Crash Course File in JupyterLab
-
-Fork the Repo [PBPL280s21](https://github.com/sjsrey/pbpl280s21)
-
-Clone it in your JupyterLab using terminal. 
-
-The main folder pbpl280s21 will appear on the side navigation bar. You can locate the geoprocessing demofile inside docsrc and go from there.
-
-This will save alot of time instead copy pasting the code from the repo. Make sure to save any changes you make to the code.
-
-
--------------------
 
