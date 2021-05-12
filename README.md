@@ -1,6 +1,8 @@
-# PBPL280 Project 
-## Topic: Education and Environmental Justice
 
+<img src="https://spatial.ucr.edu/images/UCR_logo_long.png" alt="UCR"
+	title="University of California" width="300" height="100"  />
+
+# PBPL 280 Project: Education and Environmental Justice
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
