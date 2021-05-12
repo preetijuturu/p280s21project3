@@ -68,6 +68,11 @@ schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
 
 ```
   - [SEDA](https://edopportunity.org/) 
+
+```
+SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
+
+```
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
   - Census Bureau's TIGERLINE 
      - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
