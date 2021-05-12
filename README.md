@@ -15,6 +15,8 @@
 
 [Wajiha Noor](https://github.com/WawNun)
 
+[Salvador Jr. Olguin](https://github.com/Salolg5)
+
 -------
 
 ## :hourglass: Project Timeline
