@@ -1,10 +1,12 @@
 
 <img src="https://spatial.ucr.edu/images/UCR_logo_long.png" alt="UCR"
-	title="University of California" width="300" height="100"  />
-
-# PBPL 280 Project: Education and Environmental Justice
+	title="University of California" width="300" height="100"  /> 
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+# PBPL 280 Project: Education and Environmental Justice
+## A comparative analysis of exposure to respiratory hazards and elementary school performance in Southern California. ##
+
 
 ## :pushpin: Contributors
 [Laura Shah](https://github.com/lsala010/)
@@ -62,7 +64,7 @@ A complete list of the main data sources that will be useful for the study.
   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/)
   - [SEDA](https://edopportunity.org/) 
   - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
-  - Census Bureau's TIGER database
+  - Census Bureau's TIGERLINE 
      - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
      - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
      - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
@@ -85,6 +87,7 @@ A complete list of the main data sources that will be useful for the study.
 
 *Agenda: Brainstroming Session/ Class Discussion*
 
+List of questions generated during the discussion session:
  1. What environmental factors significantly impact educational attainment?
     - Ex. aerosol particulate matter/respiratory hazards
 3. In what ways do environmental factors impact educational success?
@@ -125,4 +128,6 @@ A complete list of the main data sources that will be useful for the study.
 - [x]  **Group Meeting** 
 
  *Agenda: Finalized the project proposal in HackMD file.*
+ 
+ 
 
