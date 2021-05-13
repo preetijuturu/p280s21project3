@@ -99,6 +99,14 @@ ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 ```
 tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 ```
+Side Note:
+To make the plots bigger in a notebook:
+
+```
+import matplotlib.pyplot as plt
+plt.rcParams['figure.figsize'] = [10, 5]
+
+```
 
 -----
  ## :speech_balloon: Questions
