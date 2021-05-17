@@ -109,7 +109,7 @@ plt.rcParams['figure.figsize'] = [10, 5]
 ```
 ----
 ## Article/Readings
-[Diesel Death Zones](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
+[As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
 
 
 -----
