@@ -83,6 +83,7 @@ SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_
 3. United States Environmental Protection Agency(EPA) EJSCREEN
 
     - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+    - https://cgshub.space/user/lsala010/doc/tree/p280s21project3/Codebook/EJ__V2.ipynb
 
 ```
 import quilt3
