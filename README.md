@@ -107,6 +107,10 @@ import matplotlib.pyplot as plt
 plt.rcParams['figure.figsize'] = [10, 5]
 
 ```
+----
+## Article/Readings
+(Diesel Death Zones)[https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html]
+
 
 -----
  ## :speech_balloon: Questions
