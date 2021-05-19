@@ -92,7 +92,7 @@ b.fetch("epa/ejscreen/ejscreen_2020.parquet", "./ejscreen_2020.parquet")
 ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 ```
 
- 4. Census Bureau's TIGERLINE 
+ 4. Census Bureau's TIGERLINE FILES
      - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
      - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
      - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
