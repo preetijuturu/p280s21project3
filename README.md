@@ -17,6 +17,8 @@
 
 [Preeti Juturu](https://github.com/preetijuturu)
 
+[Salvador Jr. Olguin](https://github.com/Salolg5)
+
 -------
 
 ## :hourglass: Project Timeline
@@ -83,6 +85,7 @@ SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_
 3. United States Environmental Protection Agency(EPA) EJSCREEN
 
     - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+    - https://cgshub.space/user/lsala010/doc/tree/p280s21project3/Codebook/EJ__V2.ipynb
 
 ```
 import quilt3
@@ -91,7 +94,7 @@ b.fetch("epa/ejscreen/ejscreen_2020.parquet", "./ejscreen_2020.parquet")
 ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 ```
 
- 4. Census Bureau's TIGERLINE 
+ 4. Census Bureau's TIGERLINE FILES
      - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
      - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
      - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
@@ -99,6 +102,18 @@ ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 ```
 tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 ```
+Side Note:
+To make the plots bigger in a notebook:
+
+```
+import matplotlib.pyplot as plt
+plt.rcParams['figure.figsize'] = [10, 5]
+
+```
+----
+## Article/Readings
+[As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
+
 
 -----
  ## :speech_balloon: Questions
