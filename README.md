@@ -15,6 +15,8 @@
 
 [Wajiha Noor](https://github.com/WawNun)
 
+[Preeti Juturu](https://github.com/preetijuturu)
+
 [Salvador Jr. Olguin](https://github.com/Salolg5)
 
 -------
