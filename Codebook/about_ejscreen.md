@@ -103,29 +103,29 @@ link:
 |MINORPCT| % people of color|
 |LOWINCOME|count of low-income individuals|
 |LOWINCPCT|% low-income| 
-LESSHS	count of individuals age 25 or over with less than high school degree
-LESSHSPCT	% less than high school
-LINGISO	count of households in linguistic isolation
-LINGISOPCT	% of households (interpreted as individuals) in linguistic isolation
-UNDER5	count of individuals under age 5
-UNDER5PCT	% under age 5
-OVER64	count of individuals over age 64
-OVER64PCT	% over age 64
-PRE1960	count of housing units built before 1960
-PRE1960PCT	% pre-1960 housing (lead paint indicator)
-VULEOPCT	"Demographic Index (based on 2 factors, % low-income and % people of color)"
-VULEO	intermediate variable used for the Demograpic Index
-DISPEO	intermediate variable used for the Demographic Index
-DSLPM	Diesel particulate matter level in air
-**CANCER	Air toxics cancer risk**
-RESP	Air toxics respiratory hazard index
-PTRAF	Traffic proximity and volume
-PWDIS	Indicator for major direct dischargers to water
-PNPL	Proximity to National Priorities List (NPL) sites
-PRMP	Proximity to Risk Management Plan (RMP) facilities
-PTSDF	Proximity to Treatment Storage and Disposal (TSDF) facilities
-OZONE	Ozone level in air
-PM25	PM2.5 level in air
+|LESSHS|	count of individuals age 25 or over with less than high school degree| 
+|LESSHSPCT|	% less than high school|
+|LINGISO|	count of households in linguistic isolation|
+|LINGISOPCT|	% of households (interpreted as individuals) in linguistic isolation|
+|UNDER5|	count of individuals under age 5|
+|UNDER5PCT|	% under age 5|
+|OVER64|	count of individuals over age 64|
+|OVER64PCT|	% over age 64|
+|PRE1960|	count of housing units built before 1960|
+|PRE1960PCT|	% pre-1960 housing (lead paint indicator)|
+|VULEOPCT|	"Demographic Index (based on 2 factors, % low-income and % people of color)"|
+|VULEO|	intermediate variable used for the Demograpic Index|
+|DISPEO|	intermediate variable used for the Demographic Index|
+|DSLPM|	Diesel particulate matter level in air|
+|**CANCER**|	Air toxics cancer risk**|
+|RESP|	Air toxics respiratory hazard index|
+|PTRAF|	Traffic proximity and volume|
+|PWDIS|	Indicator for major direct dischargers to water|
+|PNPL|	Proximity to National Priorities List (NPL) sites|
+|PRMP	Proximity to Risk Management Plan (RMP) facilities|
+|PTSDF|	Proximity to Treatment Storage and Disposal (TSDF) facilities|
+|OZONE|	Ozone level in air|
+|PM25|	PM2.5 level in air|
 D_LDPNT_2	EJ Index for % pre-1960 housing (lead paint indicator)
 D_DSLPM_2	EJ Index for Diesel particulate matter level in air
 **D_CANCR_2	EJ Index for Air toxics cancer risk**
