@@ -1,4 +1,4 @@
-# Exposure to respiratory hazards and elementary school performance: a comparison between two Inland Empire cities
+# A Comparative Analysis of Exposure to Respiratory Hazards and School Performance in Southern California.
 
 ## Abstract
 This section shall be completed after the other sections of the manuscript have been completed
