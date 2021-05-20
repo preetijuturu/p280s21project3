@@ -105,17 +105,17 @@ ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 ```
 tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 ```
-Side Note:
-To make the plots bigger in a notebook:
+----
 
-```
-import matplotlib.pyplot as plt
-plt.rcParams['figure.figsize'] = [10, 5]
+## 🛠️ Additional Resources
 
-```
+Repository- Introduction to Geospatial Data Analysis with Python
+https://github.com/sjsrey/gdapy18
+
 ----
 ## Article/Readings
 [As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
+
 
 
 -----
@@ -133,10 +133,10 @@ plt.rcParams['figure.figsize'] = [10, 5]
 
 ## :dart: Tasks 
 
-Due Date: `05/15/2021`
+Due Date: `05/21/2021`
+- Group meeting schedule for `05/21/2021`
 - Each member to finish literature review summary of the 2 articles.
 - Data sets for analysis (2 person per dataset).
-- Close issue [#20](https://github.com/preetijuturu/p280s21project3/issues/20)
 
 **Note: Details of each tasks are organized in the projects section of the repo.**
 
@@ -144,6 +144,30 @@ Due Date: `05/15/2021`
 
 ## :date: Group Meeting Log
 ----
+`5/19/2021`
+- [x]  **Group Meeting** 
+
+ *Agenda: Discussion on progress made so far and possible questions.*
+
+Laura: 
+- create a smaller version of EJ data 
+- Then save to local account 
+- Use block group to join with EJ 
+- Join Everything 
+- For analysis: if you are going to look at assocation between demographic and cancer risk; then you should look at Demographics and Cancer risk and not demographics and Cancer Index 
+- Look at what Percentile is
+
+Wajiha: 
+-  Use School Catchment join 
+-  What's the relevant data area around a school? 
+-  Think about how you expect the relationship to work between schools and [pollution for example]
+-  One possible route for the project is descriptive. 
+-  If descriptive then we should use precalculated index (it also depends on our research question)  
+
+Links: 
+1. https://github.com/sjsrey/gdapy18
+2. https://github.com/sjsrey/gqs18/blob/master/content/geopandas_buffering.org
+
 `5/06/2021`
 - [x]  **Group Meeting** 
 
@@ -194,25 +218,6 @@ List of questions generated during the discussion session:
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
 -----
 
-Class 5/19/2021 
 
-Laura: 
-1. create a smaller version of EJ data 
-2. Then save to local account 
-3. Use block group to join with EJ 
-4. Join Everything 
-5. For analysis: if you are going to look at assocation between demographic and cancer risk; then you should look at Demographics and Cancer risk and not demographics and Cancer Index 
-6. Look at what Percentile is
-
-Wajiha: 
-1. Use School Catchment join 
-2. What's the relevant data area around a school? 
-3. Think about how you expect the relationship to work between schools and [pollution for example]
-4. One possible route for the project is descriptive. 
-5. If descriptive then we should use precalculated index (it also depends on our research question)  
-
-Links: 
-1. https://github.com/sjsrey/gdapy18 
-2. https://github.com/sjsrey/gqs18/blob/master/content/geopandas_buffering.org
   	
 
