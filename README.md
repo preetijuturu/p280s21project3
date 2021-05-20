@@ -52,14 +52,17 @@ Google drive for all relevant files shared with the group members.
 -  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
 Project proposal for our final project.
   
-- [HackMD for Literature Reivew](https://hackmd.io/@Laura786/S15WsEJ__/edit)
+- [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
 Review of the past literature -A total of 12 papers will reviewed for the study.
 
 - [HackMD for Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
  Organizing the data, identifying potential variables, and sources. 
  
 - [Code in Python ](https://github.com/preetijuturu/p280s21project3/tree/main/Codebook)
- Mutliple python notebooks for the data analysis.
+ Multiple python notebooks for the data analysis.
+ 
+ - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
+   Compiling research elements into a manuscript.
  ------
  
 ##  :clipboard: Data Sources
