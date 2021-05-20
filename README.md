@@ -194,4 +194,24 @@ List of questions generated during the discussion session:
 15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
 -----
 
+Class 5/19/2021 
+Laura: 
+1. create a smaller version of EJ data 
+2. Then save to local account 
+3. Use block group to join with EJ 
+4. Join Everything 
+5. For analysis: if you are going to look at assocation between demographic and cancer risk; then you should look at Demographics and Cancer risk and not demographics and Cancer Index 
+6. Look at what Percentile is
+
+Wajiha: 
+1. Use School Catchment join 
+2. What's the relevant data area around a school? 
+3. Think about how you expect the relationship to work between schools and [pollution for example]
+4. One possible route for the project is descriptive. 
+5. If descriptive then we should use precalculated index (it also depends on our research question)  
+
+Links: 
+1. https://github.com/sjsrey/gdapy18 
+2. https://github.com/sjsrey/gqs18/blob/master/content/geopandas_buffering.org
+  	
 
