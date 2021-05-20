@@ -195,6 +195,7 @@ List of questions generated during the discussion session:
 -----
 
 Class 5/19/2021 
+
 Laura: 
 1. create a smaller version of EJ data 
 2. Then save to local account 
