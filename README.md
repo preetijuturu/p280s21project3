@@ -31,7 +31,7 @@
 
 `May 19, 2021 `
 
-- [ ] **Project Milestone 1**: Paper Outline/ Literature Review & Basic Visualization.
+- [x] **Project Milestone 1**: Paper Outline/ Literature Review & Basic Visualization.
 
 `May 26, 2021 `
 - [ ] **Project Milestone 2**: Complete Data Analysis and Visualization.
@@ -113,7 +113,7 @@ Repository- Introduction to Geospatial Data Analysis with Python
 https://github.com/sjsrey/gdapy18
 
 ----
-## Article/Readings
+## 🗃️ Article/Readings
 [As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
 
 
@@ -143,9 +143,16 @@ Due Date: `05/21/2021`
 ---
 
 ## :date: Group Meeting Log
+------
+
+`5/21/2021`
+- [ ]  **Group Meeting** 
+
+*Agenda: Division of Work*
+
 ----
 `5/19/2021`
-- [x]  **Group Meeting** 
+- [x]  **In Class Group Meeting** 
 
  *Agenda: Discussion on progress made so far and possible questions.*
 
