@@ -149,6 +149,13 @@ Due Date: `05/21/2021`
 - [ ]  **Group Meeting** 
 
 *Agenda: Division of Work*
+- 1. Wajiha and Sal and Esteban looking at SEDA variables and how to interpret 
+- 2. how to access the correlation of the SEDA outcomes and the 
+- 3. Working on the paper and presentation, drafting intro [Preeti will do the intro]
+- 4. create outline for presentation [Esteban and Laura],
+- 5. Everyone will work on the manuscript;  preeti will let us know when there are updates on the manuscript
+- [Task]: look into the environmental policy for the inland empire for policy alt.
+
 
 ----
 `5/19/2021`
