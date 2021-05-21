@@ -126,21 +126,21 @@ link:
 |PTSDF|	Proximity to Treatment Storage and Disposal (TSDF) facilities|
 |OZONE|	Ozone level in air|
 |PM25|	PM2.5 level in air|
-D_LDPNT_2	EJ Index for % pre-1960 housing (lead paint indicator)
-D_DSLPM_2	EJ Index for Diesel particulate matter level in air
-**D_CANCR_2	EJ Index for Air toxics cancer risk**
-D_RESP_2	EJ Index for Air toxics respiratory hazard index
-D_PTRAF_2	EJ Index for Traffic proximity and volume
-D_PWDIS_2	EJ Index for Indicator for major direct dischargers to water
-D_PNPL_2	EJ Index for Proximity to National Priorities List (NPL) sites
-D_PRMP_2	EJ Index for Proximity to Risk Management Plan (RMP) facilities
-D_PTSDF_2	EJ Index for Proximity to Treatment Storage and Disposal (TSDF) facilities
-D_OZONE_2	EJ Index for Ozone level in air
-D_PM25_2	EJ Index for PM2.5 level in air
-STATE_NAME	Name of State
-ST_ABBREV	Two-letter abbreviation for State
-REGION	US EPA Region number
-P_MINORPCT	Percentile for % people of color
+|D_LDPNT_2|	EJ Index for % pre-1960 housing (lead paint indicator)|
+|D_DSLPM_2|	EJ Index for Diesel particulate matter level in air|
+|**D_CANCR_2|	EJ Index for Air toxics cancer risk**|
+|D_RESP_2|	EJ Index for Air toxics respiratory hazard index|
+|D_PTRAF_2|	EJ Index for Traffic proximity and volume|
+|D_PWDIS_2|	EJ Index for Indicator for major direct dischargers to water|
+|D_PNPL_2|	EJ Index for Proximity to National Priorities List (NPL) sites|
+|D_PRMP_2|	EJ Index for Proximity to Risk Management Plan (RMP) facilities|
+|D_PTSDF_2|	EJ Index for Proximity to Treatment Storage and Disposal (TSDF) facilities|
+|D_OZONE_2|	EJ Index for Ozone level in air|
+|D_PM25_2|	EJ Index for PM2.5 level in air|
+|STATE_NAME|	Name of State|
+|ST_ABBREV|	Two-letter abbreviation for State|
+|REGION|	US EPA Region number|
+|P_MINORPCT|	Percentile for % people of color|
 P_LWINCPCT	Percentile for % low-income
 P_LESHSPCT	Percentile for % less than high school
 P_LNGISPCT	Percentile for % of households (interpreted as individuals) in linguistic isolation
