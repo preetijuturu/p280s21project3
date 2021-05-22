@@ -11,6 +11,8 @@ Air toxins from industrial pollution have significantly adverse effects on human
 ## Data and Methods
 This section shall contain information around the data sets, the methods, and why particular methods were used
 
+## Policy Recommendation 
+
 ## Results
 This section shall contain the results as well as data visualizations, tables and analysis
 
