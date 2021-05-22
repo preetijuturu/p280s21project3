@@ -1,9 +1,9 @@
 |Completed|Number| Citation| Link|
 |---|---|---|---| 
-|[x]|1. ||https://bppj.berkeley.edu/2020/04/10/californias-cap-and-trade-program-has-proven-effective-now-lets-make-it-equitable/|
-|[] |2. |Yanyi He, Lizhi Wang, Jianhui Wang, Cap-and-trade vs. carbon taxes: A quantitative comparison from a generation expansion planning perspective, Computers & Industrial Engineering, Volume 63, Issue 3, 2012, Pages 708-716, ISSN 0360-8352,https://doi.org/10.1016/j.cie.2011.10.005.(https://www.sciencedirect.com/science/article/pii/S0360835211002920)|https://www.sciencedirect.com/science/article/pii/S0360835211002920|
-|[] |3. | | https://ww2.arb.ca.gov/our-work/programs/cap-and-trade-program/cap-and-trade-regulation| 
-
+|[x] |1. ||https://bppj.berkeley.edu/2020/04/10/californias-cap-and-trade-program-has-proven-effective-now-lets-make-it-equitable/|
+|[] |2. | https://ww2.arb.ca.gov/sites/default/files/classic//cc/capandtrade/guidance/chapter1.pdf| 
+|[] |3. |Yanyi He, Lizhi Wang, Jianhui Wang, Cap-and-trade vs. carbon taxes: A quantitative comparison from a generation expansion planning perspective, Computers & Industrial Engineering, Volume 63, Issue 3, 2012, Pages 708-716, ISSN 0360-8352,https://doi.org/10.1016/j.cie.2011.10.005.(https://www.sciencedirect.com/science/article/pii/S0360835211002920)|https://www.sciencedirect.com/science/article/pii/S0360835211002920|
+|[] |4. | | https://ww2.arb.ca.gov/our-work/programs/cap-and-trade-program/cap-and-trade-regulation| 
 # Notes on Policy Recommendation 
 1. Cap and Trade 
 * **Summary:** 
