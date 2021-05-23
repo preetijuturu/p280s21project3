@@ -24,11 +24,18 @@ Low-income communities and communities of color often bear a disproportionate bu
 
 In an effort to address the inequitable distribution of pollution and associated health effects in low-income communities and communities of color, the Legislature passed and Governor Brown signed SB 1000 in 2016, requiring local governments to identify environmental justice communities (called “disadvantaged communities”) in their jurisdictions and address environmental justice in their general plans.  This new law has several purposes, including to facilitate transparency and public engagement in local governments’ planning and decision making processes, reduce harmful pollutants and the associated health risks in environmental justice communities, and promote equitable access to health-inducing benefits, such as healthy food options, housing, public facilities, and recreation.
 
+
+### Senate Bill (SB) 535 (De León, Chapter 830, Statutes of 2012) 
+Directs State and local agencies to make investments that benefit California's disadvantaged communities. It also directs the California Environmental Protection Agency (CalEPA) to identify disadvantaged communities for the purposes of these investments based on geographic, socio-economic, public health, and environmental hazard criteria.
+
+### Assembly Bill (AB) 1550 (Gomez, Chapter 369, Statutes of 2016)
+Increased the percent of funds for projects located in disadvantaged communities from 10 to 25 percent and added a focus on investments in low-income communities and households.
+
 ### Some Tools Used for Identification of DAC's
 EPA EJSCREEN
 CalEnviroScreen 3.0 
 CalEPA’s SB 535 “Disadvantaged Communities” Mapping Tool
 
-[source](https://oag.ca.gov/environment/sb1000)  
-
+https://oag.ca.gov/environment/sb1000
+https://greenlining.org/blog-category/2016/ab-1550-increasing-equity-in-californias-climate-investments/ 
 ---------
