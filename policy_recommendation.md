@@ -5,6 +5,7 @@
 |[] |3. |Yanyi He, Lizhi Wang, Jianhui Wang, Cap-and-trade vs. carbon taxes: A quantitative comparison from a generation expansion planning perspective, Computers & Industrial Engineering, Volume 63, Issue 3, 2012, Pages 708-716, ISSN 0360-8352,https://doi.org/10.1016/j.cie.2011.10.005.(https://www.sciencedirect.com/science/article/pii/S0360835211002920)|https://www.sciencedirect.com/science/article/pii/S0360835211002920|
 |[] |4. | | https://ww2.arb.ca.gov/our-work/programs/cap-and-trade-program/cap-and-trade-regulation| 
 ## Notes on Policy Recommendation 
+
 1. California’s Cap-and-Trade Program Has Proven Effective – Now Let’s Make it Equitable  
 * **Summary:** 
     * The Cap-and-Trade Program/regulation permits the state to put a cap on facilities that emit carbon dioxide (or air pollutants), in an attempt to decrease the level of pollution in the air. 
@@ -14,8 +15,73 @@
     * The author argues that the California State Legislature should remove the ban in order to allow state and local agencies to regulate air pollution within their local vicinity. 
     * State and local governments can specifically target facilities to reduce their carbon emissions in ares where vulnerable communities are most impacted; by reducing carbon emissions in those areas. 
 
-2. Cap-and-Trade Regulation Instructional Guidance- CHAPTER 1: HOW DOES THE CAP-AND-TRADE PROGRAM WORK
+## 2. Cap-and-Trade Regulation Instructional Guidance- CHAPTER 1: HOW DOES THE CAP-AND-TRADE PROGRAM WORK
+`Sept 2012`
+* Summary: 
 
+* Notes: 
+ 
+* Chapter 1: How Does the Cap-and-Trade Program Work? 
+    * **Cap-and-Trade Program**  
+        * Reduces greenhouse gas (GHG) emissions by setting caps on major green house gas emissions producers.
+            * goal is to reduce GHG 
+        * GHG emissions are measures in "metric tons of carbon dioxide equivalent (MTCO2e)
+        * The requirements for "covered entity" include "to surrender one permit to emit", "for each ton of GHG emssions they emit"
+            * Some GHG producers would be able to use and buy"some allowances" either in auction, or be it "purchased from others", "or even purchase offset credits". 
+        * Potential critic: Program is intended "to decline over time" even though it started in 2013 
+    * Mandatory Reporting of GHG Regulation or MRR 
+        * Cap-and-Trade Program uses the data collected from the MRR or Madatiry reporting Regulation. 
+            * identifing "major sources of GHG" in CA 
+            * Entities that are required report GHG: 
+                1. "Facilities, feul, and carbon dioxide (CO2) suppliers"
+                2. Electric power entities 
+    * Basics if Cap Program: 
+        * **Allowance:** tradeable permit to emit one metric ton of CO2 equvalent greenhouse gas emission 
+        * **Offset Credit:** equivalent to a GHG reduction or GHG removal enhancement of one metric ton of CO2e. 
+        * **Compliance Instruments**: used by entities to comply, they include ARB offset credits and allowances.  
+            * "The GHG reduction or GHG removal enhancement must be real, additional, quantifiable, permanent, verifiable, and enforceable and may only be issues to offset projects using approved Compliance Offset Protocols.
+            * GHG producers are only allowed to use 8% of its ARB offset credits to comply with compliance obligations. 
+    * **Compliance Period:** Time frame of complicance obligation calculated 
+        * End of each compliance time period, facilities are required to turn in allowances and a "limited number of ARB offset credits". 
+            * Limited ARB offset credits are based on the equivalent to their total GHG emissions through the compliance period
+            
+            * First: 2013-2014  
+            * Second: 2015-2017 
+            * Third: 2018-2020
+    * 
+    * Who Complies: 
+        * 2012 big GHG-emitting sources 
+            * Electricity generatio (includes imports)
+            * large stationary siurces (refineries, cement production faciliti8es, oill gas prduction facilities glass manufacturing faciliti8es, food processing plants )
+            * Where they emit more than 25,000 MTCO2e per year ha to comply with CAP
+        * 2015 expanded to include fuel distributors   
+        * Some facilities required to report annual emissions but not be required to "surrender compliance instruements". 
+            * it depends: 
+                * Companies that emit 10,000 or more metric tons of co2e 
+                    * required: submit report on their GHGs 
+                * "Subset of industgrial facilities with annual emissions equivalent to or greater than 25,000 metric tons of co2e = required to comply with CAP program  
+            * Major GHG emission sources   
+   * Cap-and-Trade Regulation: 
+       * major GHG producers before deadlines must: 
+           * register with ARB
+           * report annual GHG emissions that were emitted 
+           * create accounts and designate authoritzed representatie for account 
+           * surrender compliance instruments (allowances and appropriate offset credits)
+        * "ARB will allocate proportion of allowances to qualified facilities" 
+        * Each place is "responsible for having the remaining allownces or limited number offset credits to comply with the program."" 
+        * companies that miss the deadline are "subject to" being fined. 
+        * How much is determined by ARB to enforce what happens next due to the violation.  
+
+One addition Part of Cap and trade: 
+* is the offset project
+* GHG omitting companies can create offset projects
+* Positive for businesses : 
+    * Can generate ARB offset credits for compliance 
+    * Needs to complete 4 Offset compliance ofset protocals 
+        * to be approved 
+            1. Urban forestry
+            2. Forestry
+            3. Livestock digesters, and desctruction of oxone depleting sustances  
 ------
 ## Legislation Related to Environmetal Justice in California
 
