@@ -48,7 +48,6 @@
             * First: 2013-2014  
             * Second: 2015-2017 
             * Third: 2018-2020
-    * 
     * Who Complies: 
         * 2012 big GHG-emitting sources 
             * Electricity generatio (includes imports)
