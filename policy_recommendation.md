@@ -20,7 +20,7 @@
 * Summary: 
 
 * Notes: 
- 
+will be compacted into summary section - notes will be removed for organization purposes  
 * Chapter 1: How Does the Cap-and-Trade Program Work? 
     * **Cap-and-Trade Program**  
         * Reduces greenhouse gas (GHG) emissions by setting caps on major green house gas emissions producers.
