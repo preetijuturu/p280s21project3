@@ -144,6 +144,23 @@ Due Date: `05/21/2021`
 
 ## :date: Group Meeting Log
 ------
+`5/24/2021`
+* Veroni method:
+	* neighborhood (average census block groups) represented by polygons
+	* Veroni method entails looking at the locations of schools subdivided within neighborhood polygons 
+		* Closest school per polygon 	  
+		* Link for visual rep: https://pysal.org/notebooks/lib/libpysal/voronoi.html 
+	* size of polygon depends on the spatial distribution of the points
+	* Polygons will have score of schools with EJ Layer 
+	* Veroni is another layer that we are adding to our map. 
+* Wednesday night Professor will do a demo on how to use the veroni method 
+* Policy Perspective of Project: Purposes of project does not require policy recommendation- optional 
+	* we can touch on policy implications  
+		* Prof: Recommends taxing corporations that emit environmental toxins 	 	 
+* Limitations of using Veroni method: 
+	* Has constant population density - assumptions 
+	* Distance measures as crow flies 
+* Date Presentations Due forthcoming 	 
 
 `5/21/2021`
 - [ ]  **Group Meeting** 
