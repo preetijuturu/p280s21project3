@@ -133,10 +133,10 @@ https://github.com/sjsrey/gdapy18
 
 ## :dart: Tasks 
 
-Due Date: `05/21/2021`
-- Group meeting schedule for `05/21/2021`
-- Each member to finish literature review summary of the 2 articles.
-- Data sets for analysis (2 person per dataset).
+Due Date: `05/26/2021`
+- Attend group meeting schedule for `05/24/2021`
+- Create a combined file containing the clean code.
+- Attempt Veroni method on our data.
 
 **Note: Details of each tasks are organized in the projects section of the repo.**
 
@@ -145,12 +145,18 @@ Due Date: `05/21/2021`
 ## :date: Group Meeting Log
 ------
 `5/24/2021`
+
+- [x]  **Group Meeting with Professor** 
+ 
+ *Agenda: Discuss the issue of multiple legends on the choropleth map and how to create a score combining EJ and School performance.*
+ 
+- Suggestions for the project
 * Veroni method:
 	* neighborhood (average census block groups) represented by polygons
 	* Veroni method entails looking at the locations of schools subdivided within neighborhood polygons 
 		* Closest school per polygon 	  
 		* Link for visual rep: https://pysal.org/notebooks/lib/libpysal/voronoi.html 
-	* size of polygon depends on the spatial distribution of the points
+	* Size of polygon depends on the spatial distribution of the points
 	* Polygons will have score of schools with EJ Layer 
 	* Veroni is another layer that we are adding to our map. 
 	* Okay to combine NCES/SEDA/ACS/EJ Data by GeoId. Work from one file.
@@ -162,17 +168,20 @@ Due Date: `05/21/2021`
 	* Has constant population density - assumptions 
 	* Distance measures as crow flies 
 * Date Presentations Due forthcoming 	 
+-----
 
 `5/21/2021`
-- [ ]  **Group Meeting** 
+- [x]  **Group Meeting** 
 
 *Agenda: Division of Work*
-- 1. Wajiha and Sal and Esteban looking at SEDA variables and how to interpret 
-- 2. how to access the correlation of the SEDA outcomes and the 
-- 3. Working on the paper and presentation, drafting intro [Preeti will do the intro]
-- 4. create outline for presentation [Esteban and Laura],
-- 5. Everyone will work on the manuscript;  preeti will let us know when there are updates on the manuscript
-- [Task]: look into the environmental policy for the inland empire for policy alt.
+-  Wajiha and Sal and Esteban looking at SEDA variables and how to interpret 
+-  How to access the correlation of the SEDA outcomes and the 
+-  Working on the paper and presentation, drafting intro [Preeti will do the intro]
+-  Create outline for presentation [Esteban and Laura],
+-  Everyone will work on the manuscript; preeti will let us know when there are updates on the manuscript
+
+`Upcoming Task`
+- Look into the environmental policy for the inland empire for policy alt.
 
 
 ----
@@ -200,6 +209,7 @@ Links:
 1. https://github.com/sjsrey/gdapy18
 2. https://github.com/sjsrey/gqs18/blob/master/content/geopandas_buffering.org
 
+-----
 `5/06/2021`
 - [x]  **Group Meeting** 
 
