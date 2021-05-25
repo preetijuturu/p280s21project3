@@ -153,6 +153,7 @@ Due Date: `05/21/2021`
 	* size of polygon depends on the spatial distribution of the points
 	* Polygons will have score of schools with EJ Layer 
 	* Veroni is another layer that we are adding to our map. 
+	* Okay to combine NCES/SEDA/ACS/EJ Data by GeoId. Work from one file.
 * Wednesday night Professor will do a demo on how to use the veroni method 
 * Policy Perspective of Project: Purposes of project does not require policy recommendation- optional 
 	* we can touch on policy implications  
