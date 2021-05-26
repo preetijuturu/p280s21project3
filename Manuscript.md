@@ -11,6 +11,14 @@ Air toxins from industrial pollution have significantly adverse effects on human
 ## Data and Methods
 This section shall contain information around the data sets, the methods, and why particular methods were used
 
+The data tha was use in our methods includes the EJScreen data from the year 2020. The EJScreen data comes from the EPA and has valuable information on environmental justice data. The Variable taht we choose to use in our map is the D_RESP_2 which represents the air toxics respiratory hazard index. Furthermore, we data that we refined is the riverside county. 
+
+The second dataset was used was th NCES for the school district data from 2018 to 2019 academic school year. Specifically, this dataset entails the locations of the schools in a given school district.  
+
+The third dataset, we implemented into our project is the ACS or American Community Survey from the year 2018. This dataset entails demographic variables []
+
+The four dataset that we complied is the SEDA data; this data entails standardized test scores that were collected from the 3rd grade to the 8th grade in math and reading language arts or RLA. The school years range from 2008 to 2009 and 2017 to 2018. 
+
 ## Policy Recommendation 
 
 ## Results
