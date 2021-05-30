@@ -11,7 +11,7 @@ Include the importance/relevance of the study: Esteban
 This section shall contain information around the data sets, the methods, and why particular methods were used
 
 (Preeti & Laura) 
-The data tha was use in our methods includes the EJScreen data from the year 2020. The EJScreen data comes from the EPA and has valuable information on environmental justice data. The Variable taht we choose to use in our map is the D_RESP_2 which represents the air toxics respiratory hazard index. Furthermore, we data that we refined is the riverside county. 
+The data tha was used in our methods includes the EJScreen from the U.S. environmental Protection Agency; specifically from the year 2020. The EJScreen data has valuable information on environmental justice data . The variable that was selected for the purposes of our map is the Air Toxics Respiratory Hazard Index. Furthermore, we refined the EJscreen 
 Include how the index:  
 Shortcomings: 
 
