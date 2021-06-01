@@ -29,6 +29,7 @@ Why did we select the outcome variable how was it measured/estimated in the code
 Spatial analysis 
 Applied the Voroni Method:  
 Why did we chose that method over simple map:  
+In other words what are the benefits to using the veroni method 
 
 ## Results (pending) 
 This section shall contain the results as well as data visualizations, tables and analysis.
