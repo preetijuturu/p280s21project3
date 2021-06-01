@@ -27,9 +27,13 @@ Why did we select the outcome variable how was it measured/estimated in the code
 
 ## Methods: [Laura & Wajiha] 
 Spatial analysis 
-Applied the Voroni Method:  
-Why did we chose that method over simple map:  
-In other words what are the benefits to using the veroni method 
+The research methods includes layering data; specifically, the EJSCREEN dataset was merged to the 
+Then the...
+
+Furthermore, our research methods in the project included using the veroni method.  
+The reason why we choose the veroni method over using a simple map is because the method is consistent in evenly mapping out the centroids of polygons based off of the location of nearby polygons.    
+Additional benefits to using the veronic method is [Explain how the veroni method is used in the project]. 
+Although, the veroni method is useful for the intended purpose of our project, it is important to relate the limitations of using this method. The limitation to using the veronic method is that the formula to make this method assumes that neighborhood movement remains constant. The second limitation is...
 
 ## Results (pending) 
 This section shall contain the results as well as data visualizations, tables and analysis.
