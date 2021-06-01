@@ -8,9 +8,9 @@ Research suggests that minorities such as Hispanic and African-American children
 
 Air toxins from industrial pollution have significantly adverse effects on human health outcomes. *insert more information about air toxins + citations)* Riverside County, the largest county in California's Inland Empire, is known for its high levels of air pollution and air toxics exposure. The effects of such exposure to human health such as respiratory function have been thoroughly examined, with the region notably containing rates of pediatric asthma that exceed California health and safety standards. (*insert citations here*) There is existing literature linking air toxics exposure to decreased academic performance. In a study of school children in China, researchers found a significant association between air pollution, particularly levels of NO2, and poorer results on neurobehavioral tests designed to measure the children’s sensory, motor, and psychomotor functions (Wang et al., 2009). It is important to note, however, that exposure to pollutants and decreased academic performance are not necessarily the result of SES variables. A recent study assessing the association between environmental toxicants and _____
 
-Our study illustrates the importance:
+## Importance:
 
-The problems surrounding environmental air hazards and the impact on school performance is a highly neglected and under-researched exploration. Past literature review suggest a individual studies in   
+The problems surrounding environmental air hazards and the impact on school performance is a highly neglected and under-researched exploration. Past literature review show individual studies in specific geographic regions testing the association between environmental inequality and that of academic performance indicators. Our group study supplements prior studied evidence that there is an envionmental ascription in the sense that it can exert negative influence on academic performance in children and ultimately contribute to social inequalities. (Lucier, Rosofsky, London, Scharber, Shandra, 2011). We reveal that some schools and the students enrolled have an inherit attribute with these polluted environments. 
 
 Esteban (will add to this June 1, 2021)
 
