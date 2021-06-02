@@ -34,7 +34,7 @@
 - [x] **Project Milestone 1**: Paper Outline/ Literature Review & Basic Visualization.
 
 `May 26, 2021 `
-- [ ] **Project Milestone 2**: Complete Data Analysis and Visualization.
+- [x] **Project Milestone 2**: Complete Data Analysis and Visualization.
 
 `June 4, 2021`
 - [ ] **Final Submission**: Presentation, Manuscript and Project Reproducibility Documentation. 
@@ -45,25 +45,18 @@
 ------
 - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
  Guidelines from the course instructor.
- 
-- [Project Folder](https://drive.google.com/drive/u/1/folders/0AOU5SGI5NYK2Uk9PVA)
-Google drive for all relevant files shared with the group members.
 
 -  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
 Project proposal for our final project.
   
 - [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
 Review of the past literature -A total of 12 papers will reviewed for the study.
-
-- [HackMD for Codebook Data Selection](https://hackmd.io/@Laura786/ryJBHa-uu/edit) 
- Organizing the data, identifying potential variables, and sources. 
- 
-- [Code in Python ](https://github.com/preetijuturu/p280s21project3/tree/main/Codebook)
- Multiple python notebooks for the data analysis.
  
  - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
    Compiling research elements into a manuscript.
- ------
+
+------
+ 
  
 ##  :clipboard: Data Sources
 ----
@@ -88,7 +81,7 @@ SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_
 3. United States Environmental Protection Agency(EPA) EJSCREEN
 
     - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
-    - https://cgshub.space/user/lsala010/doc/tree/p280s21project3/Codebook/EJ__V2.ipynb
+   
 
 ```
 import quilt3
@@ -106,37 +99,33 @@ ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 ```
 ----
+## :notebook: Project Notebooks
 
-## 🛠️ Additional Resources
+- [Voronoi Analysis of Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
+- [Voronoi Analysis of Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
+- [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
+- [Racial Composition and Voronoi Method Visualization](https://github.com/preetijuturu/p280s21project3/blob/main/Voroni%20(2).ipynb)
+- [SEDA Covariates](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
+- [EJ Screen](https://github.com/preetijuturu/p280s21project3/blob/main/EJ__V2.ipynb)
+- [SEDA Education Outcomes](https://github.com/preetijuturu/p280s21project3/blob/main/Education_SEDA.ipynb)
+
+-------
+
+## 🛠️ Additional Resources and Readings
 
 Repository- Introduction to Geospatial Data Analysis with Python
-https://github.com/sjsrey/gdapy18
+- https://github.com/sjsrey/gdapy18
 
-----
-## 🗃️ Article/Readings
-[As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
-
-
-
------
- ## :speech_balloon: Questions
+- [As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
  
- Pending Decisions
- - Which type of school (public, private, charter school)
-- Time period for analysis? (crossectional VS longitudinal)
-- ALL SCHOOLS (elementary, secondary and highschool) VS ONLY ELEMENTARY schools?
-- How do we define school districts? 
-- Selection of areas/locations for analysis, for instance Riverside VS Coastal areas?
-- One of the things that we were considering was looking at the locations of warehouses to help look at the impact that toxic hazard has on students performance. Would you recommend that we go about that route or would looking at the Environment Justice dataset be enough? 
-
 ----
 
 ## :dart: Tasks 
 
-Due Date: `05/26/2021`
-- Attend group meeting schedule for `05/24/2021`
+Due Date: `06/04/2021`
 - Create a combined file containing the clean code.
-- Attempt Veroni method on our data.
+- Finalize Presentation
+- Finalize Report
 
 **Note: Details of each tasks are organized in the projects section of the repo.**
 
