@@ -52,7 +52,7 @@ The analysis can be contributed to other counties, we have given step by step an
 ## Discussion and conclusions 
 (Salvador & Esteban) 
 Restate the importance/relevance of the study:  
-This section shall discuss whether the results were in line with existing research and anticipated results, how the study may be improved, policy recommendations (with research backing them) and highlighting the need of further research regarding environmental exposure and academic performance
+This section shall discuss whether the results were in line with existing research and anticipated results, how the study may be improved, policy recommendations (with research backing them) and highlighting the need of further research regarding environmental exposure and academic performance (Will add after June 2nd)
 
 ## Work Cited 
 1. Chakraborty J, Zandbergen PA. Children at risk: measuring racial/ethnic disparities in potential exposure to air pollution at school and home. J Epidemiol Community Health. 2007 Dec;61(12):1074-9. doi: 10.1136/jech.2006.054130. PMID: 18000130; PMCID: PMC2465656.
