@@ -18,9 +18,9 @@ Esteban (will add to this June 1, 2021)
 This section shall contain information around the data sets, the methods, and why particular methods were used
 
 (Preeti & Laura) 
-The data tha was used in our methods includes the EJScreen from the U.S. environmental Protection Agency; specifically from the year 2020. The EJScreen data has valuable information on environmental justice data . The variable that was selected for the purposes of our map is the Air Toxics Respiratory Hazard Index. Furthermore, we refined the EJscreen 
-Include how the index:  
-Shortcomings: 
+The data used in our methods includes the EJScreen from the U.S. Environmental Protection Agency; specifically from the year 2020. The EJScreen data has valuable information on environmental justice data such as the Air Toxics Respiratory Hazard Index which has been used in our map. [will add more later]
+
+The EJSCREEn dataset from the EPA has its limitations. For example, the dataset has some "uncertain estimates"; specifcially, in small block groups (EPA). Although, it has this limitation the dataset is recommended to use for sumarizing the data in big areas, so that it may cover multiple block groups. The second limitation is that the dataset does not provide all possible environmental impacts and demographics. The resoning why that is the case is that there are many components withing environmental factors that have not been assessed and included in national databases such as the quality of drinking water or indoor air quality. The third limiation is that the income percentages are estimates, they may be over or under estimates because the data does not count for all households from the U.S. Census. Furthermore, the variables calculated are for "each block group" except specific environmental indicators "for air quality" such as the air quality of particle matter or Ozones (EPA). These air quality indicators were assess for each Cnesus tract or block group. Lastly, when using EJSCREEN is it important to consider that the EJSCREEN dataset ultimatley represents a proxy for assessing the possible health impacts in the United States.  
 
 The second dataset was used was the NCES for the school district data from 2018 to 2019 academic school year. Specifically, this dataset entails the locations of the schools in a given school district.  
 
@@ -33,6 +33,8 @@ Why did we select the outcome variable how was it measured/estimated in the code
 Spatial analysis 
 The research methods includes layering data; specifically, the EJSCREEN dataset was merged to the 
 Then the...
+
+By using EJSCREEN we are able to observe the accumulation of various block groups within the Riverside Unified School County through polygons or "buffer report" (EPA)
 
 Furthermore, our research methods in the project included using the veroni method.  
 The reason why we choose the veroni method over using a simple map is because the method is consistent in evenly mapping out the centroids of polygons based off of the location of nearby polygons.    
