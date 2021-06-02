@@ -58,5 +58,6 @@ This section shall discuss whether the results were in line with existing resear
 
 ## Work Cited 
 1. Chakraborty J, Zandbergen PA. Children at risk: measuring racial/ethnic disparities in potential exposure to air pollution at school and home. J Epidemiol Community Health. 2007 Dec;61(12):1074-9. doi: 10.1136/jech.2006.054130. PMID: 18000130; PMCID: PMC2465656.
-2.  Liu, Jianghong, and Gary Lewis. “Environmental toxicity and poor cognitive outcomes in children and adults.” Journal of environmental health vol. 76,6 (2014): 130-8.
-3.  Reichmuth, David. 2019. Inequitable Exposure to Air Pollution from Vehicles in California. Cambridge, MA: Union of Concerned Scientists. https://www.ucsusa.org/resources/inequitable-exposure-air-pollution-vehicles-california-2019
+2. “Overview of Environmental Indicators in EJSCREEN.” EPA, Environmental Protection Agency, 5 Apr. 2021, www.epa.gov/ejscreen/overview-environmental-indicators-ejscreen.  
+3.  Liu, Jianghong, and Gary Lewis. “Environmental toxicity and poor cognitive outcomes in children and adults.” Journal of environmental health vol. 76,6 (2014): 130-8.
+4.  Reichmuth, David. 2019. Inequitable Exposure to Air Pollution from Vehicles in California. Cambridge, MA: Union of Concerned Scientists. https://www.ucsusa.org/resources/inequitable-exposure-air-pollution-vehicles-california-2019
