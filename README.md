@@ -36,7 +36,7 @@
 `May 26, 2021 `
 - [x] **Project Milestone 2**: Complete Data Analysis and Visualization.
 
-`June 4, 2021`
+`June 11, 2021`
 - [ ] **Final Submission**: Presentation, Manuscript and Project Reproducibility Documentation. 
  
 ------
@@ -136,7 +136,7 @@ Repository- Introduction to Geospatial Data Analysis with Python
 
 ## :dart: Tasks 
 
-Due Date: `06/04/2021`
+Due Date: `06/11/2021`
 - Create a combined file containing the clean code.
 - Finalize Presentation
 - Finalize Report
