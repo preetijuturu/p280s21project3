@@ -56,7 +56,8 @@ The nature of our research indicates a proxy model to represent whether school t
 (Salvador & Esteban) 
 Restate the importance/relevance of the study:  
 *This section shall discuss whether the results were in line with existing research and anticipated results, how the study may be improved, policy recommendations (with research backing them) and highlighting the need of further research regarding environmental exposure and academic performance.*
-After showcasing the results and discussing the policy recommendmations, it is important to reiterate the importance of this study because the negative issues surrounding environmental air hazards and the impact on school performance is a highly neglected and under-researched exploration. Also, it is imperative that our study can be utilzied as a way to further expand future research on this subject. Therefore, (will add/edit more later)
+
+After showcasing the results and discussing the policy recommendations, it is important to reiterate the importance of this study because the negative issues surrounding environmental air hazards and the impact on school performance is a highly neglected and under-researched exploration. Also, it is imperative that our study can be utilized as a way to further expand future research on this subject. Therefore, (will add/edit more later)
 
 ## Work Cited 
 1. Chakraborty J, Zandbergen PA. Children at risk: measuring racial/ethnic disparities in potential exposure to air pollution at school and home. J Epidemiol Community Health. 2007 Dec;61(12):1074-9. doi: 10.1136/jech.2006.054130. PMID: 18000130; PMCID: PMC2465656. 
