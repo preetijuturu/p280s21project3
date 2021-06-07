@@ -47,16 +47,16 @@
 ## 📝 Project Documentation
 ------
 - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
- Guidelines from the course instructor.
+ Guidelines from the Course Instructor.
 
 -  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-Project proposal for our final project.
+Project proposal for Our Final Project
   
 - [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
-Review of the past literature -A total of 12 papers will reviewed for the study.
+Literature Review
  
  - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
-   Compiling research elements into a manuscript.
+   
 
 ------
  
@@ -85,7 +85,6 @@ SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_
 
     - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
    
-
 ```
 import quilt3
 b = quilt3.Bucket("s3://spatial-ucr")
