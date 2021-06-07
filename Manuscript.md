@@ -1,4 +1,4 @@
-# A Comparative Analysis of Exposure to Respiratory Hazards and School Performance in Southern California.
+# Exposure to Respiratory Hazards and Educational Performance in the Riverside Unified School District, California: A Geospatial Analysis.
 
 ## Intro
 This section contains the literature review elements in addition to reasoning behind the research topic selection
@@ -22,7 +22,7 @@ The data used in our methods includes the EJScreen from the U.S. Environmental P
 
 The EJSCREEN dataset from the EPA has its limitations. For example, the dataset has some "uncertain estimates"; specifcially, in small block groups (EPA, 2021). Although, it has this limitation the dataset is recommended to use for sumarizing the data in big areas, so that it may cover multiple block groups. The second limitation is that the dataset does not provide all possible environmental impacts and demographics. The reasoning why that is the case is that there are many components within environmental factors that have not been assessed and included in national databases such as the quality of drinking water or indoor air quality. The third limiation is that the income percentages are estimates, they may be over or under estimates because the data does not count for all households from the U.S. Census. Furthermore, the variables calculated are for "each block group" except specific environmental indicators "for air quality" such as the air quality of particle matter or Ozones (EPA,2021). These air quality indicators were assess for each Census tract or block group. Lastly, when using EJSCREEN is it important to consider that the EJSCREEN dataset ultimatley represents a proxy for assessing the possible health impacts in the United States.  
 
-The second dataset was used was the NCES for the school district data from 2018 to 2019 academic school year. Specifically, this dataset entails the locations of the schools in a given school district.  
+The second dataset was used was the NCES for the school district data from 2018 to 2019 academic school year. Specifically, this dataset entails the locations of the schools in a given school district. 
 
 The third dataset, we implemented into our project is the ACS or American Community Survey from the year 2018. This dataset entails demographic variables []
 
@@ -30,7 +30,16 @@ The four dataset that we complied is the SEDA data; this data entails standardiz
 Why did we select the outcome variable how was it measured/estimated in the code? 
 
 ## Methods: [Laura & Wajiha] 
+
+For our project we focused on Riverside Unified School District( RUSD) in the Riverside County, California. The district was selected after visualizing a clear pattern of distinct variations in environmental justice respiratory hazards index and due to its location central to the county. Cross-sectional data for 2018 was obtained from multiple open sources. Block group data from EPA Environmental Justice(EJ) Screen was combined with American Community Survey(ACS). Using geospatial boundaries we mapped the respiratory hazard index for 
+RUSD. Altought, the index includes demographic and population variables, we separately mapped the racial composition, median household income and total population to visualize each component separatly.Once basic visualization was done at the block group level we proceeded to include educational outcomes data. NCES dataframe was combined with SEDA data set to find point geometry for each schools. Our resulting sample for RUSD has a total of 39 observations for the average test scorces administered from the 3rd grade to the 8th grade in math and reading language arts. The educational outcomes where visualize and mapped on the block group boundaries.
+
+
+
 Spatial analysis 
+
+
+
 The research methods includes layering data; specifically, the EJSCREEN dataset was merged to the 
 Then the...
 
