@@ -35,15 +35,14 @@ Our community focus was on Riverside County (located in California); thus, distr
 
 ### Spatial analysis 
 
-The research methods includes layering data; specifically, the EJSCREEN dataset was merged to the 
-Then the...
 
-By using EJSCREEN we are able to observe the accumulation of various block groups within the Riverside Unified School County through polygons or "buffer report" (EPA, 2021). 
+By using EJSCREEN we are able to observe the accumulation of various block groups within the Riverside Unified School County through polygons or "buffer report" (EPA, 2021).
 
-Furthermore, our research methods in the project included using the veroni method.  
-The reason why we choose the veroni method over using a simple map is because the method is consistent in evenly mapping out the centroids of polygons based off of the location of nearby polygons.    
-Additional benefits to using the veronic method is [Explain how the veroni method is used in the project]. 
-Although, the veroni method is useful for the intended purpose of our project, it is important to relate the limitations of using this method. The limitation to using the veronic method is that the formula to make this method assumes that neighborhood movement remains constant. The second limitation is...
+In addition, the voronio method was used in Map B; the benefits for using the voronoi method on a simple map visualization is due to the fact the methodology is consistent in mapping out the centroids (represented by a point) within polygons, based off of the location of other nearby polygons. 
+ 
+The limitation to using the voronoi method is that the formula does not account for neighborhood movements as it assumes the neighborhoods remain constant. 
+
+The second limitation is 
 
 ## Results (pending) 
 This section shall contain the results as well as data visualizations, tables and analysis.
@@ -54,7 +53,10 @@ This section shall contain the results as well as data visualizations, tables an
 ## Policy Recommendation (generalize)
 (Wajiha/Laura) 
 
-The nature of our research indicates a proxy model to represent whether school test performance is associated with air toxic pollution. Furthermore, other researchers can replicate our study by expanding on other, states, counties and schools. With the EJSCREEN data, researchers can assess the impacts of air toxic pollution on various areas. Through out step-by-step analysis, we are laying the foundation for future researchers. 
+Researchers and policy makers should consider doing in-depth studies, addressing whether or not existing environmental policies(such as the famous Cap and Trade Program) lead to better environmental outcomes. In addition, researchers should consider if the "better" environmental outcomes lead to better health outcomes, espeacially in students.
+
+Ultimately, the nature of our research represents a proxy model to demonstrate whether school's test performance is associated with air toxic pollution exposure based off of geospatial location. Furthermore, our second policy recommendation is for researchers to use our documentaiton and methodolgies to not only replicate our study but expand it as well by analyzing other counties and, schools. A benefit for expansion our study is that researchers can estimate the geospatial visualization of air toxic pollution on other regions. Through our research we are laying the foundation for other researchers that are interested in environmental issues.  
+
 
 ## Discussion and conclusions 
 (Salvador & Esteban) 
