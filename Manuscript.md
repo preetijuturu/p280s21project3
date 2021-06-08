@@ -61,6 +61,10 @@ Ultimately, the nature of our research represents a proxy model to demonstrate w
 ## Discussion and conclusions 
 (Salvador & Esteban) 
 Restate the importance/relevance of the study:  
+## Importance Restated
+
+The relationship between environmental exposure on student academic performance is an emerging research study that remains incomplete. Our model can serve as a template for future research projects that highlights the important of implementing clean environmental policy standards and it's potential impacts on student achievement. There are a number of caveats to the associtation between environmental exposure and academic achievenment and that is that in relation to our study it is only one function among many that can impact a student ability to do well in their school work. Showcasing our results and investing deeper research resources can provide a breadth of knowledge of the extent of how air toxins ultimately plays its part in student achievement. 
+
 *This section shall discuss whether the results were in line with existing research and anticipated results, how the study may be improved, policy recommendations (with research backing them) and highlighting the need of further research regarding environmental exposure and academic performance.*
 
 After showcasing the results and discussing the policy recommendations, it is important to reiterate the importance of this study because the negative issues surrounding environmental air hazards and the impact on school performance is a highly neglected and under-researched exploration. Also, it is imperative that our study can be utilized as a way to further expand future research on this subject. Therefore, (will add/edit more later)
