@@ -17,8 +17,7 @@
 
 ## 📝 Project Documentation
 
-- [Slide Presentation](https://docs.google.com/presentation/d/1rp7JEXDTZyxcVlwDGPZybQEtdEnhNggBlO7OzcP2YGs/edit?usp=sharing)
- **this link is restricted to people in our group that have access, will be changed so professor can access the presentation** 
+- [Final Presentation](https://docs.google.com/presentation/d/1qLhLtxjq6XK-siDOcR44per9_hq1gRP0U5N7I24vXpM/edit?usp=sharing) 
 
 - [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
 Literature Review
