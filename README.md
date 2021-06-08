@@ -19,6 +19,25 @@
 
 [Salvador Jr. Olguin](https://github.com/Salolg5)
 
+------
+## 📝 Project Documentation
+
+- Link to Presentation: 
+- [Final Presentation](https://docs.google.com/presentation/d/1qLhLtxjq6XK-siDOcR44per9_hq1gRP0U5N7I24vXpM/edit?usp=sharing) 
+
+- [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
+ Guidelines from the Course Instructor.
+
+-  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
+Project proposal for Our Final Project
+  
+- [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
+Literature Review
+ 
+ - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
+   
+
+------
 -------
 
 ## :hourglass: Project Timeline
@@ -45,22 +64,6 @@
 `June 11, 2021`
 - [ ] **Final Submission**: Manuscript and Project Reproducibility Documentation. 
  
-------
-
-## 📝 Project Documentation
-------
-- [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
- Guidelines from the Course Instructor.
-
--  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-Project proposal for Our Final Project
-  
-- [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
-Literature Review
- 
- - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
-   
-
 ------
  
  
