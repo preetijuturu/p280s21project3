@@ -22,7 +22,6 @@
 ------
 ## 📝 Project Documentation
 
-- Link to Presentation: 
 - [Final Presentation](https://docs.google.com/presentation/d/1qLhLtxjq6XK-siDOcR44per9_hq1gRP0U5N7I24vXpM/edit?usp=sharing) 
 
 - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
