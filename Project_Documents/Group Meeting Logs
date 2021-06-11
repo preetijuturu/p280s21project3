@@ -1,0 +1,120 @@
+---
+
+## :date: Group Meeting Log
+------
+`5/24/2021`
+
+- [x]  **Group Meeting with Professor** 
+ 
+ *Agenda: Discuss the issue of multiple legends on the choropleth map and how to create a score combining EJ and School performance.*
+ 
+- Suggestions for the project
+* Veroni method:
+	* neighborhood (average census block groups) represented by polygons
+	* Veroni method entails looking at the locations of schools subdivided within neighborhood polygons 
+		* Closest school per polygon 	  
+		* Link for visual rep: https://pysal.org/notebooks/lib/libpysal/voronoi.html 
+	* Size of polygon depends on the spatial distribution of the points
+	* Polygons will have score of schools with EJ Layer 
+	* Veroni is another layer that we are adding to our map. 
+	* Okay to combine NCES/SEDA/ACS/EJ Data by GeoId. Work from one file.
+* Wednesday night Professor will do a demo on how to use the veroni method 
+* Policy Perspective of Project: Purposes of project does not require policy recommendation- optional 
+	* we can touch on policy implications  
+		* Prof: Recommends taxing corporations that emit environmental toxins 	 	 
+* Limitations of using Veroni method: 
+	* Has constant population density - assumptions 
+	* Distance measures as crow flies 
+* Date Presentations Due forthcoming 	 
+-----
+
+`5/21/2021`
+- [x]  **Group Meeting** 
+
+*Agenda: Division of Work*
+-  Wajiha and Sal and Esteban looking at SEDA variables and how to interpret 
+-  How to access the correlation of the SEDA outcomes and the 
+-  Working on the paper and presentation, drafting intro [Preeti will do the intro]
+-  Create outline for presentation [Esteban and Laura],
+-  Everyone will work on the manuscript; preeti will let us know when there are updates on the manuscript
+
+`Upcoming Task`
+- Look into the environmental policy for the inland empire for policy alt.
+
+
+----
+`5/19/2021`
+- [x]  **In Class Group Meeting** 
+
+ *Agenda: Discussion on progress made so far and possible questions.*
+
+Laura: 
+- create a smaller version of EJ data 
+- Then save to local account 
+- Use block group to join with EJ 
+- Join Everything 
+- For analysis: if you are going to look at assocation between demographic and cancer risk; then you should look at Demographics and Cancer risk and not demographics and Cancer Index 
+- Look at what Percentile is
+
+Wajiha: 
+-  Use School Catchment join 
+-  What's the relevant data area around a school? 
+-  Think about how you expect the relationship to work between schools and [pollution for example]
+-  One possible route for the project is descriptive. 
+-  If descriptive then we should use precalculated index (it also depends on our research question)  
+
+Links: 
+1. https://github.com/sjsrey/gdapy18
+2. https://github.com/sjsrey/gqs18/blob/master/content/geopandas_buffering.org
+
+-----
+`5/06/2021`
+- [x]  **Group Meeting** 
+
+ *Agenda: Finalized the project proposal in HackMD file.*
+ 
+ ----
+ 
+`4/23/2021` 
+ - [x]   **Group Meeting** 
+
+*Agenda: Discussion and review of data and literature for the study.*
+
+ Potential Forms of Measurements
+   -  Air Pollution ( what should be the ideal measure from EJscreen?)
+   -  Demographics, Ethniticy, Gender Income Variables were provided in SEDA.
+   
+ Points Raised by Group Members:
+   - Esteban: For Causality 
+   - Laura: Cons for Causality, maybe looking at associations would be easier.  
+   - Wajiha: potential air quality data from non-profit. Looking at Inland Empire 
+    
+  Future Deliverables:
+   -  Project Proposal will be finalized in HackMD link and then transferred to GitHUb.
+   
+------
+
+`04/21/2021`
+ - [x]  **Inclass Group Meeting** 
+
+*Agenda: Brainstroming Session/ Class Discussion*
+
+List of questions generated during the discussion session:
+ 1. What environmental factors significantly impact educational attainment?
+    - Ex. aerosol particulate matter/respiratory hazards
+3. In what ways do environmental factors impact educational success?
+4. Are minorities and people of color more likely to be affected by environmental toxic exposure? 
+5. How should we measure environmental impacts on educational outcomes?
+    - Ex. EPA EJ index (does it capture all items that may impact educational outcomes)
+7. How do we assess educational outcomes?
+    - Ex. Are test scores a good indicator? How do we know if they are being impacted by the environment or something else (ex. SES)
+8. Are the current EPA regulations of air pollution control effective? How can they be improve, in order to alleviate the health inpact of children in schools? 
+9. Does air quality have the same impact as water quality on educational outcomes?
+    - Comparative framework ?? (assessing educational outcomes and types of environmental conditions)
+11. Should we look at a comparative analysis of enviroment and how it can potentially impact the school outcome for students in DAC and wealthy neighbourhoods.
+12. Does schooling affect environmental outcomes or does environmental outcomes affect schooling?
+13. How could land-use policy affect environmental racism for school-age children?
+14. How do warehouses impact the environmental toxins in the air near schools? What are the afffects in children? 
+15. Looking at environmental risk exposure through school district boundaries (ex. high pediatric asthma in certain school districts; change over time)
+-----
+
