@@ -23,6 +23,7 @@
 ## 📝 Project Documentation
 
 - [Final Presentation](https://docs.google.com/presentation/d/1qLhLtxjq6XK-siDOcR44per9_hq1gRP0U5N7I24vXpM/edit?usp=sharing) 
+Project Presentation
 
 - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
  Guidelines from the Course Instructor.
@@ -85,6 +86,7 @@ tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 - [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
 - [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
 - [Racial Composition and Voronoi Method Visualization](https://github.com/preetijuturu/p280s21project3/blob/main/Voroni%20(2).ipynb)
+- [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
  
 <img src="https://base.imgix.net/files/base/ebm/ehstoday/image/2020/03/ehstoday_3468_epalogo.5e7e64160e169.png?auto=format&fit=crop&h=432&w=768" alt="EPA"
 	title="EPA" width="50" height="30"  />  EPA EJSCREEN CODEBOOK
