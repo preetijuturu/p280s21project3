@@ -29,12 +29,13 @@ Project Presentation
  Guidelines from the Course Instructor.
 
 -  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-Project proposal for Our Final Project
+Project Proposal Manuscript
   
 - [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
-Literature Review
+Extensive Literature Review 
  
  - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
+ Final Project Manuscript
    
 
 ------
