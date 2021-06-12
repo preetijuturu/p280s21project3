@@ -28,10 +28,10 @@ Project proposal manuscript (markdown format).
 
 ## :notebook: Project Notebooks
 
-The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation in python.Check description below to find the suitable version. 
+The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation in python. Check description below to find the suitable version. 
 
 	
-### Voronoi Method 
+### 1. Voronoi Method 
 
 - [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
 This notebook contains the Voronoi analysis for EJ Respiratory Index and Educational outcome for Riverside Unified School District.Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in RUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. Two separate indices are derived using different approaches. 
@@ -40,12 +40,12 @@ This notebook contains the Voronoi analysis for EJ Respiratory Index and Educati
 This notebook contains the Voronoi analysis for Racial Composition and Educational outcome for Riverside Unified School District (using extensive approach). Contains additional information on the racial composition in RUSD. Racial composition is divided into three main groups percentage white, blacks and hispanic from ACS.
  
 	
-### EPA- Environmental Justice Screen
+### 2. EPA- Environmental Justice Screen
 	
  - [EJ Screen](https://github.com/preetijuturu/p280s21project3/blob/main/EJ__V2.ipynb)
 This notebook contains methods to retrieve, clean, overlay and visualize EJ Screen Data.
 
-### SEDA- Educational Outcomes
+### 3. SEDA- Educational Outcomes
 
 - [SEDA Covariates Level Codes](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
 This notebook contains methods to retrieve, clean, overlay and visualize SEDA covariates level data. Cross-sectional data was generated for the year 2019. This file contains information on school level racial composition, school type and additional variables provided on SEDA's educational opportunity website.
@@ -54,7 +54,7 @@ This notebook contains methods to retrieve, clean, overlay and visualize SEDA co
 This notebook contains methods to retrieve, clean, overlay and visualize SEDA educational outcomes data. The data covers a 10 year period of learning outcomes for grades 3 to 8. Information on school level educational outcomes such as average test scores and additional learning outcomes can be found in this file.
 
 
-### Additional Material
+### 4. Additional Material
 
 - [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
 
@@ -66,9 +66,9 @@ This notebook contains the voronoi analysis for EJ Respiratory Index and Educati
 
 ------
 
-##  :clipboard: Data Sources for the Project
+##  :clipboard: Open Source Data 
 ----
-A complete list of the main data sources and code to retrieve data for the study.
+A complete list of the opend source data used in this project.
  
 1. National Center for Education Statistics 
  
