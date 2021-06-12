@@ -22,21 +22,65 @@
 ------
 ## 📝 Project Documentation
 
-- [Final Presentation](https://docs.google.com/presentation/d/1qLhLtxjq6XK-siDOcR44per9_hq1gRP0U5N7I24vXpM/edit?usp=sharing) 
-Project Presentation
+- [Final Presentation](https://docs.google.com/presentation/d/1rp7JEXDTZyxcVlwDGPZybQEtdEnhNggBlO7OzcP2YGs/edit?usp=sharing) 
+Project presentation slides
 
 - [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
- Guidelines from the Course Instructor.
+Project guidelines from the course instructor.
 
 -  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-Project Proposal Manuscript
+Project proposal manuscript
   
 - [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
 Extensive Literature Review 
+  
+ - [Project Report](https://github.com/preetijuturu/p280s21project3/blob/main/Project_Documents/PBPL280%20Group%203%20Manuscript.pdf)
+ A Final version of the project report in PDF format.
+  
  
- - [Project Manuscript](https://github.com/preetijuturu/p280s21project3/blob/main/Manuscript.md)
- Final Project Manuscript
-   
+------
+
+## :notebook: Project Notebooks
+
+The following set of links is intented for the purpose of direction. Each link give is linked to a complete version of notebooks for the project.
+Check description below to find the ideal version. 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/1200px-Euclidean_Voronoi_diagram.svg.png" alt="Voronoi"
+	title="methods" width="30" height="30"  />  Voronoi Analysis Codebook	
+
+- [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
+This notebook contains the Voronoi analysis for EJ Respiratory Index and Educational outcome for Los Angeles Unified School District. Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in LAUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. 
+
+- [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
+This notebook contains the Voronoi analysis for EJ Respiratory Index and Educational outcome for Riverside Unified School District.Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in RUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. Two separate indices are derived using different approaches. 
+
+
+- [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
+This notebook contains the Voronoi analysis for Racial Composition and Educational outcome for Riverside Unified School District (using extensive approach). Contains additional information on the racial composition in RUSD. Racial composition is divided into three main groups percentage white, blacks and hispanic from ACS.
+ 
+<img src="https://base.imgix.net/files/base/ebm/ehstoday/image/2020/03/ehstoday_3468_epalogo.5e7e64160e169.png?auto=format&fit=crop&h=432&w=768" alt="EPA"
+	title="EPA" width="50" height="30"  />  EPA EJSCREEN Codebook
+	
+ - [EJ Screen](https://github.com/preetijuturu/p280s21project3/blob/main/EJ__V2.ipynb)
+This notebook contains methods to retrieve, clean, overlay and visualize EJ Screen Data.
+
+<img src="https://edopportunity.org/images/social/seda-social-image-08.png" alt="SEDA"
+	title="SEDA" width="50" height="30"  /> SEDA Codebooks
+
+- [SEDA Covariates Level Codes](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
+This notebook contains methods to retrieve, clean, overlay and visualize SEDA covariates level data. Cross-sectional data was generated for the year 2019. This file contains information on school level racial composition, school type and additional variables.
+
+- [SEDA Education Outcomes](https://github.com/preetijuturu/p280s21project3/blob/main/Education_SEDA.ipynb)
+This notebook contains methods to retrieve, clean, overlay and visualize SEDA educational outcomes data. Cross-sectional data was generated for the year 2019. This file contains information on school level average test scores and additional learning outcomes.
+
+
+Additional Information
+
+- [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
+
+This file have additional information on how to retrieve data for the project on the following counties (Los Angeles, Orange and Riverside County). 
+
+
 
 ------
 
