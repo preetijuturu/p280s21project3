@@ -28,10 +28,10 @@ Project proposal manuscript (markdown format).
 
 ## :notebook: Project Notebooks
 
-The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation.Check description below to find the suitable version. 
+The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation in python.Check description below to find the suitable version. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/1200px-Euclidean_Voronoi_diagram.svg.png" alt="Voronoi"
-	title="methods" width="30" height="30"  />  Voronoi Analysis Codebook	
+	
+### Voronoi Method 
 
 - [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
 This notebook contains the Voronoi analysis for EJ Respiratory Index and Educational outcome for Riverside Unified School District.Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in RUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. Two separate indices are derived using different approaches. 
@@ -39,14 +39,13 @@ This notebook contains the Voronoi analysis for EJ Respiratory Index and Educati
 - [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
 This notebook contains the Voronoi analysis for Racial Composition and Educational outcome for Riverside Unified School District (using extensive approach). Contains additional information on the racial composition in RUSD. Racial composition is divided into three main groups percentage white, blacks and hispanic from ACS.
  
-<img src="https://base.imgix.net/files/base/ebm/ehstoday/image/2020/03/ehstoday_3468_epalogo.5e7e64160e169.png?auto=format&fit=crop&h=432&w=768" alt="EPA"
-	title="EPA" width="50" height="30"  />  EPA EJSCREEN Codebook
+	
+### EPA- Environmental Justice Screen
 	
  - [EJ Screen](https://github.com/preetijuturu/p280s21project3/blob/main/EJ__V2.ipynb)
 This notebook contains methods to retrieve, clean, overlay and visualize EJ Screen Data.
 
-<img src="https://edopportunity.org/images/social/seda-social-image-08.png" alt="SEDA"
-	title="SEDA" width="50" height="30"  /> SEDA Codebooks
+### SEDA- Educational Outcomes
 
 - [SEDA Covariates Level Codes](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
 This notebook contains methods to retrieve, clean, overlay and visualize SEDA covariates level data. Cross-sectional data was generated for the year 2019. This file contains information on school level racial composition, school type and additional variables provided on SEDA's educational opportunity website.
@@ -55,7 +54,7 @@ This notebook contains methods to retrieve, clean, overlay and visualize SEDA co
 This notebook contains methods to retrieve, clean, overlay and visualize SEDA educational outcomes data. The data covers a 10 year period of learning outcomes for grades 3 to 8. Information on school level educational outcomes such as average test scores and additional learning outcomes can be found in this file.
 
 
-- Additional Material
+### Additional Material
 
 - [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
 
