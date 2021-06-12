@@ -26,26 +26,17 @@ Project proposal manuscript (markdown format).
   
 ------
 
-## 📔 Project Notebooks
+## 📓 Project Reproducibility Documents
 
-The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation in python. Check description below to find the suitable version. 
+### 📔  Data Retrieval Notebooks
 
-	
-### 1. Voronoi Method 
 
-- [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
-This notebook contains the voronoi analysis for EJ Respiratory Index and Educational outcome using data from Riverside Unified School District(RUSD). Method to retrieve and compile data from various sources including SEDA, NCES, EPA EJSCREEN and American Community Survery (ACS) is provided in this file. Environmental justice indicators such as respiratory hazard's index from EPA EJ Screen at block group level is mapped onto voronoi polygons determined by school locations.  
-
-- [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
-This notebook contains the voronoi analysis for racial composition and educational outcome using data from Riverside Unified School District. The file contains detail analysis of the racial composition indicators at block group levels within RUSD. Analysis is done for three main racial groups including NonHispanic Whites, Black and Hispanic population. The association between racial composition and educational outcomes is determined for each racial group separately.
- 
-	
-### 2. EPA- Environmental Justice Screen
+####  `EPA-Environmental Justice Screen`
 	
  - [EJ Screen](https://github.com/preetijuturu/p280s21project3/blob/main/EJ__V2.ipynb)
 This notebook contains methods to retrieve, convert, overlay and visualize from EPA EJ Screen.
 
-### 3. SEDA- Educational Outcomes
+####  `SEDA-Educational Outcomes`
 
 - [SEDA Covariates Level Codes](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
 This notebook contains methods to retrieve, convert, clean, overlay, and visualize SEDA covariates level data. Cross-sectional data was generated for the year 2019. The dataset includes information on school level racial composition, school type and additional variables provided by SEDA's educational opportunity website.
@@ -54,7 +45,20 @@ This notebook contains methods to retrieve, convert, clean, overlay, and visuali
 This notebook contains methods to retrieve, convert, clean, overlay, and visualize SEDA educational outcomes data. The data covers averages values of learning outcomes for grades 3 to 8 over 2008-09 through 2017-18 school years. Information on school level educational outcomes such as average test scores and additional learning outcomes can be found in this file.
 
 
-### 4. Additional Material
+----
+### 💻  Data Analysis Notebooks
+
+The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation in python. Check description below to find the suitable version. 
+	
+####  `Voronoi Method `
+
+- [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
+This notebook contains the voronoi analysis for EJ Respiratory Index and Educational outcome using data from Riverside Unified School District(RUSD). Method to retrieve and compile data from various sources including SEDA, NCES, EPA EJSCREEN and American Community Survery (ACS) is provided in this file. Environmental justice indicators such as respiratory hazard's index from EPA EJ Screen at block group level is mapped onto voronoi polygons determined by school locations.  
+
+- [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
+This notebook contains the voronoi analysis for racial composition and educational outcome using data from Riverside Unified School District. The file contains detail analysis of the racial composition indicators at block group levels within RUSD. Analysis is done for three main racial groups including NonHispanic Whites, Black and Hispanic population. The association between racial composition and educational outcomes is determined for each racial group separately.
+ 
+####  `Material for Additional Analysis`
 
 - [County Level Data](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
 This file have additional information on how to retrieve NCES, SEDA, EJ Screen and ACS data for Los Angeles, Orange and Riverside County.
@@ -65,7 +69,7 @@ This notebook contains the voronoi analysis for EJ Respiratory Index and Educati
 
 ------
 
-##  📎 Open Source Data 
+##  📎 Open Data Sources
 
 A complete list of open source data used in this project is linked below:
  
@@ -75,7 +79,6 @@ A complete list of open source data used in this project is linked below:
 
 ```
 schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
-
 ```
 ### 2. The Educational Opportunity Project at Stanford University 
 
@@ -83,7 +86,6 @@ schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
   
 ```
 SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
-
 ```
 ### 3. United States Environmental Protection Agency(EPA) EJSCREEN
 
