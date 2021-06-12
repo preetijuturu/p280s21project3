@@ -67,27 +67,27 @@ This notebook contains the voronoi analysis for EJ Respiratory Index and Educati
 
 ##  :clipboard: Open Source Data 
 ----
-A complete list of the opend source data used in this project.
+A complete list of open source data used in this project is linked below:
  
-1. National Center for Education Statistics 
+### 1. National Center for Education Statistics 
  
-   - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
+  - [NCES](https://open.quiltdata.com/b/spatial-ucr/tree/nces/schools/) 
 
 ```
 schools = gpd.read_parquet('s3://spatial-ucr/nces/schools/schools_1718.parquet')
 
 ```
-2. The Educational Opportunity Project at Stanford University 
+### 2. The Educational Opportunity Project at Stanford University 
 
-    - [SEDA](https://edopportunity.org/) 
+  - [SEDA](https://edopportunity.org/) 
   
 ```
 SEDA = pd.read_csv("https://stacks.stanford.edu/file/druid:db586ns4974/seda_cov_school_poolyr_4.0.csv")
 
 ```
-3. United States Environmental Protection Agency(EPA) EJSCREEN
+### 3. United States Environmental Protection Agency(EPA) EJSCREEN
 
-    - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
+ - [EPA](https://open.quiltdata.com/b/spatial-ucr/tree/epa/ejscreen/)
    
 ```
 import quilt3
@@ -96,10 +96,10 @@ b.fetch("epa/ejscreen/ejscreen_2020.parquet", "./ejscreen_2020.parquet")
 ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 ```
 
- 4. Census Bureau's TIGERLINE FILES
-     - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
-     - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
-     - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
+### 4. Census Bureau's TIGERLINE FILES
+   - [Elementary School Districts]( http://www2.census.gov/geo/tiger/TIGER2010DP1/ELSD_2010Census_DP1.zip)
+   - [Census Bureau's TIGER database documentation]( https://www.census.gov/programs-surveys/saipe/technical-documentation/methodology/school-districts/overview-school-district.html)
+   - [See the boundary files on this page]( https://www.census.gov/geographies/mapping-files/2010/geo/tiger-data.html)
 
 ```
 tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
