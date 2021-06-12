@@ -52,10 +52,10 @@ The following set of links are intented to provide useful inforamtion on the dat
 	
 ####  `Voronoi Method `
 
-- [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
+- [Voronoi Analysis - EJ SCREEN for Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
 This notebook contains the voronoi analysis for EJ Respiratory Index and Educational outcome using data from Riverside Unified School District(RUSD). Method to retrieve and compile data from various sources including SEDA, NCES, EPA EJSCREEN and American Community Survery (ACS) is provided in this file. Environmental justice indicators such as respiratory hazard's index from EPA EJ Screen at block group level is mapped onto voronoi polygons determined by school locations.  
 
-- [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
+- [Voronoi Method- Extensive Approach for Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
 This notebook contains the voronoi analysis for racial composition and educational outcome using data from Riverside Unified School District. The file contains detail analysis of the racial composition indicators at block group levels within RUSD. Analysis is done for three main racial groups including NonHispanic Whites, Black and Hispanic population. The association between racial composition and educational outcomes is determined for each racial group separately.
  
 ####  `Material for Additional Analysis`
@@ -63,7 +63,7 @@ This notebook contains the voronoi analysis for racial composition and education
 - [County Level Data](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
 This file have additional information on how to retrieve NCES, SEDA, EJ Screen and ACS data for Los Angeles, Orange and Riverside County.
 
-- [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
+- [Voronoi Analysis - EJ Screen for Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
 This notebook contains the voronoi analysis for EJ Respiratory Index and Educational outcome for Los Angeles Unified School District. Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in LAUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. 
 
 
