@@ -5,14 +5,14 @@
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # 🌎 Education and Environmental Justice
-## Exposure to Respiratory Hazards and Educational Performance in the Riverside Unified School District, California: A Geospatial Analysis. ##
+## Exposure to Respiratory Hazards and Educational Performance in the Riverside Unified School District, California: *A Geospatial Analysis*. ##
 
 
 ## :pushpin: Contributors
 [Laura Shah](https://github.com/lsala010/),  [Esteban Villegas](https://github.com/evill092),  [Wajiha Noor](https://github.com/WawNun),  [Preeti Juturu](https://github.com/preetijuturu),  [Salvador Jr. Olguin](https://github.com/Salolg5)
 
 ------
-## 📝 Project Documentation
+## 📁 Project Documentation
 
 - [Final Presentation](https://docs.google.com/presentation/d/1rp7JEXDTZyxcVlwDGPZybQEtdEnhNggBlO7OzcP2YGs/edit?usp=sharing) 
 Open access for project presentation (google slides).
@@ -23,10 +23,10 @@ Project proposal manuscript (markdown format).
  - [Project Report](https://github.com/preetijuturu/p280s21project3/blob/main/Project_Documents/PBPL280%20Group%203%20Manuscript.pdf)
  A final version of the project report (PDF format).
   
- 
+  
 ------
 
-## :notebook: Project Notebooks
+## 📔 Project Notebooks
 
 The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation in python. Check description below to find the suitable version. 
 
@@ -65,8 +65,8 @@ This notebook contains the voronoi analysis for EJ Respiratory Index and Educati
 
 ------
 
-##  :clipboard: Open Source Data 
-----
+##  📎 Open Source Data 
+
 A complete list of open source data used in this project is linked below:
  
 ### 1. National Center for Education Statistics 
