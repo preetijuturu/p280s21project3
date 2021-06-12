@@ -15,19 +15,13 @@
 ## 📝 Project Documentation
 
 - [Final Presentation](https://docs.google.com/presentation/d/1rp7JEXDTZyxcVlwDGPZybQEtdEnhNggBlO7OzcP2YGs/edit?usp=sharing) 
-Project presentation slides
+Open access for project presentation (google slides).
 
-- [Project Guidelines](https://sergerey.org/pbpl280s21/projects.html)
-Project guidelines from the course instructor.
-
--  [HackMD for Proposal Writeup](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
-Project proposal manuscript
-  
-- [HackMD for Literature Review](https://hackmd.io/@Laura786/S15WsEJ__/edit)
-Extensive Literature Review 
+-  [HackMD for Project Proposal](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
+Project proposal manuscript (markdown format).
   
  - [Project Report](https://github.com/preetijuturu/p280s21project3/blob/main/Project_Documents/PBPL280%20Group%203%20Manuscript.pdf)
- A Final version of the project report in PDF format.
+ A final version of the project report (PDF format).
   
  
 ------
