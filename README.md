@@ -14,8 +14,10 @@
 ------
 ## 📁 Project Documentation
 
+Proposal, report and slides for the project.
+
 - [Final Presentation](https://docs.google.com/presentation/d/1rp7JEXDTZyxcVlwDGPZybQEtdEnhNggBlO7OzcP2YGs/edit?usp=sharing) 
-Open access for project presentation (google slides).
+Open access project presentation (google slides).
 
 -  [HackMD for Project Proposal](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
 Project proposal manuscript (markdown format).
@@ -27,6 +29,8 @@ Project proposal manuscript (markdown format).
 ------
 
 ## 📓 Project Reproducibility Documents
+
+Methods and data analysis techniques for the project. 
 
 ### 📔  Data Retrieval Notebooks
 
@@ -53,7 +57,7 @@ The following set of links are intented to provide useful inforamtion on the dat
 ####  `Voronoi Method `
 
 - [Voronoi Analysis - EJ SCREEN for Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
-This notebook contains the voronoi analysis for EJ respiratory index and educational outcome using data from Riverside Unified School District(RUSD). Method to retrieve and compile data from various sources including SEDA, NCES, EPA EJSCREEN and American Community Survery (ACS) is provided in this file. Environmental justice indicators such as respiratory hazard's index from EPA EJ Screen are analyzed at block group level. Additionally the index is mapped onto voronoi polygons based on school locations from SEDA/NCES. 
+This notebook contains the voronoi analysis for EJ respiratory index and educational outcome using data from Riverside Unified School District(RUSD). Method to retrieve, merge and geosaptially analyze data from various sources including SEDA, NCES, EPA EJSCREEN and American Community Survery (ACS) is provided in this file. Environmental justice indicator such as respiratory hazard's index from EPA EJScreen is analyzed at block group level. Additionally the index is mapped onto voronoi polygons based on school locations from SEDA/NCES. Further estimation procedures such as areal interpolation and scatter plot are also part of the file.
 
 - [Voronoi Method- Extensive Approach for Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
 This notebook contains the voronoi analysis for racial composition and educational outcome using data from Riverside Unified School District. The file contains detail analysis of the racial composition indicators at block group levels within RUSD. Analysis is done for three main racial groups including NonHispanic Whites, Black and Hispanic population. The association between racial composition and educational outcomes is determined for each racial group separately.
