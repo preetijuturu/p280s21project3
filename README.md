@@ -4,7 +4,7 @@
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# Education and Environmental Justice
+# 🌎 Education and Environmental Justice
 ## Exposure to Respiratory Hazards and Educational Performance in the Riverside Unified School District, California: A Geospatial Analysis. ##
 
 
