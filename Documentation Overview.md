@@ -2,8 +2,6 @@
 
 This document provides an overview of the various Jupyter Notebooks used to create visualizations as well analyse data. These notebooks also include descriptions of steps as well as data information.
 
-- Notebooks
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/1200px-Euclidean_Voronoi_diagram.svg.png" alt="Voronoi"
 	title="methods" width="30" height="30"  />  VORONOI ANALYSIS CODEBOOKS
 - [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
