@@ -4,20 +4,12 @@
 
 [![Gitter](https://badges.gitter.im/p280s21project3/community.svg)](https://gitter.im/p280s21project3/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# PBPL 280 Project: Education and Environmental Justice
+# Education and Environmental Justice
 ## Exposure to Respiratory Hazards and Educational Performance in the Riverside Unified School District, California: A Geospatial Analysis. ##
 
 
 ## :pushpin: Contributors
-[Laura Shah](https://github.com/lsala010/)
-
-[Esteban Villegas](https://github.com/evill092)
-
-[Wajiha Noor](https://github.com/WawNun)
-
-[Preeti Juturu](https://github.com/preetijuturu)
-
-[Salvador Jr. Olguin](https://github.com/Salolg5)
+[Laura Shah](https://github.com/lsala010/),  [Esteban Villegas](https://github.com/evill092),  [Wajiha Noor](https://github.com/WawNun),  [Preeti Juturu](https://github.com/preetijuturu),  [Salvador Jr. Olguin](https://github.com/Salolg5)
 
 ------
 ## 📝 Project Documentation
@@ -42,18 +34,13 @@ Extensive Literature Review
 
 ## :notebook: Project Notebooks
 
-The following set of links is intented for the purpose of direction. Each link give is linked to a complete version of notebooks for the project.
-Check description below to find the ideal version. 
+The following set of links are intented to provide useful inforamtion on the data documents. Each link has a version of notebook generated for the purpose of geospatial data analysis and visualiation.Check description below to find the suitable version. 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/1200px-Euclidean_Voronoi_diagram.svg.png" alt="Voronoi"
 	title="methods" width="30" height="30"  />  Voronoi Analysis Codebook	
 
-- [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
-This notebook contains the Voronoi analysis for EJ Respiratory Index and Educational outcome for Los Angeles Unified School District. Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in LAUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. 
-
 - [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
 This notebook contains the Voronoi analysis for EJ Respiratory Index and Educational outcome for Riverside Unified School District.Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in RUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. Two separate indices are derived using different approaches. 
-
 
 - [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
 This notebook contains the Voronoi analysis for Racial Composition and Educational outcome for Riverside Unified School District (using extensive approach). Contains additional information on the racial composition in RUSD. Racial composition is divided into three main groups percentage white, blacks and hispanic from ACS.
@@ -68,23 +55,25 @@ This notebook contains methods to retrieve, clean, overlay and visualize EJ Scre
 	title="SEDA" width="50" height="30"  /> SEDA Codebooks
 
 - [SEDA Covariates Level Codes](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
-This notebook contains methods to retrieve, clean, overlay and visualize SEDA covariates level data. Cross-sectional data was generated for the year 2019. This file contains information on school level racial composition, school type and additional variables.
+This notebook contains methods to retrieve, clean, overlay and visualize SEDA covariates level data. Cross-sectional data was generated for the year 2019. This file contains information on school level racial composition, school type and additional variables provided on SEDA's educational opportunity website.
 
 - [SEDA Education Outcomes](https://github.com/preetijuturu/p280s21project3/blob/main/Education_SEDA.ipynb)
-This notebook contains methods to retrieve, clean, overlay and visualize SEDA educational outcomes data. Cross-sectional data was generated for the year 2019. This file contains information on school level average test scores and additional learning outcomes.
+This notebook contains methods to retrieve, clean, overlay and visualize SEDA educational outcomes data. The data covers a 10 year period of learning outcomes for grades 3 to 8. Information on school level educational outcomes such as average test scores and additional learning outcomes can be found in this file.
 
 
-Additional Information
+- Additional Material
 
 - [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
 
-This file have additional information on how to retrieve data for the project on the following counties (Los Angeles, Orange and Riverside County). 
+This file have additional information on how to retrieve NCES, SEDA, EJ Screen and ACS data for Los Angeles, Orange and Riverside County.
 
+- [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
+This notebook contains the voronoi analysis for EJ Respiratory Index and Educational outcome for Los Angeles Unified School District. Data from SEDA, NCES, EJSCREEN and ACS has been truncated to find the educational outcomes for each school in LAUSD. EJ Respiratory Index is mapped on to voronoi polygons along with the schools location. 
 
 
 ------
 
-##  :clipboard: Data Sources
+##  :clipboard: Data Sources for the Project
 ----
 A complete list of the main data sources and code to retrieve data for the study.
  
@@ -124,40 +113,7 @@ ejscreen = pd.read_parquet('ejscreen_2020.parquet')
 tracts = gpd.read_parquet("s3://spatial-ucr/census/acs/acs_2018_tract.parquet")
 ```
 ----
-## :notebook: Project Notebooks
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/1200px-Euclidean_Voronoi_diagram.svg.png" alt="Voronoi"
-	title="methods" width="30" height="30"  />  VORONOI ANALYSIS CODEBOOKS
-- [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
-- [Voronoi Analysis - Riverside Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/RUSD_Vor.ipynb)
-- [Racial Composition and Voronoi Method Visualization](https://github.com/preetijuturu/p280s21project3/blob/main/Voroni%20(2).ipynb)
-- [Voronoi Method- Extensive Approach To Estimate Racial Composition](https://github.com/preetijuturu/p280s21project3/blob/main/NEW_RUSD_Vor_extensive.ipynb)
- 
-<img src="https://base.imgix.net/files/base/ebm/ehstoday/image/2020/03/ehstoday_3468_epalogo.5e7e64160e169.png?auto=format&fit=crop&h=432&w=768" alt="EPA"
-	title="EPA" width="50" height="30"  />  EPA EJSCREEN CODEBOOK
-	
- - [EJ Screen](https://github.com/preetijuturu/p280s21project3/blob/main/EJ__V2.ipynb)
-
-<img src="https://edopportunity.org/images/social/seda-social-image-08.png" alt="SEDA"
-	title="SEDA" width="50" height="30"  /> SEDA CODEBOOKS
-
-- [SEDA Covariates Level Codes](https://github.com/preetijuturu/p280s21project3/blob/main/Codebook/New_SEDA.ipynb)
-- [SEDA Education Outcomes](https://github.com/preetijuturu/p280s21project3/blob/main/Education_SEDA.ipynb)
-
-ADDITIONAL COMBO FILES
-
-- [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
-- [ Basic compiled version with RUSD](https://github.com/preetijuturu/p280s21project3/blob/main/EJ_Visualization.ipynb)
-
--------
-
-## 🛠️ Additional Resources and Readings
-
-Repository- Introduction to Geospatial Data Analysis with Python
-- https://github.com/sjsrey/gdapy18
-
-- [As 'diesel death zones' spread in California, pollution regulators place new rules on warehouse industry](https://phys.org/news/2021-05-diesel-death-zones-california-pollution.html)
- 
 
 
   	
