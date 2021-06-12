@@ -56,8 +56,7 @@ This notebook contains methods to retrieve, convert, clean, overlay, and visuali
 
 ### 4. Additional Material
 
-- [Combined File for Additional Analysis](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
-
+- [County Level Data](https://github.com/preetijuturu/p280s21project3/blob/main/Combined_File2.ipynb)
 This file have additional information on how to retrieve NCES, SEDA, EJ Screen and ACS data for Los Angeles, Orange and Riverside County.
 
 - [Voronoi Analysis - Los Angeles Unified School District](https://github.com/preetijuturu/p280s21project3/blob/main/LAUSD_Data.ipynb)
