@@ -16,7 +16,7 @@
 
 Proposal, report and slides for the project.
 
-- [Final Presentation](https://docs.google.com/presentation/d/1rp7JEXDTZyxcVlwDGPZybQEtdEnhNggBlO7OzcP2YGs/edit?usp=sharing) 
+- [Final Presentation](https://docs.google.com/presentation/d/1qLhLtxjq6XK-siDOcR44per9_hq1gRP0U5N7I24vXpM/edit#slide=id.gdd58c2318c_3_178)
 Open access project presentation (google slides).
 
 -  [HackMD for Project Proposal](https://hackmd.io/@xSZKUBllSUCUfYxmgoh_yA/SyurmYCUd)
